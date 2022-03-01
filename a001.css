@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cabin&family=Fira+Sans&family=Hind&family=Josefin+Sans:wght@100;400&family=Jost:wght@100;400&family=Lato:wght@100;400&family=Montserrat&family=Poiret+One&family=Roboto:wght@400;700&family=Work+Sans&display=swap');
+
+li.row{border:1px inset transparent;border-image:radial-gradient(#00000000 80%,var(--clr2)); -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
+    -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,var(--clr2));border-image-slice:1}
+
+dd.lastpost{background: linear-gradient(rgb(0,0,0,0), rgb(32 32 32 / 80%), rgb(32 32 32))!important;
+}
+
+
+/***solo va en el indice***/
+
+/***recuadro fuera****/
+    
+    .r3cu4dro{width: 830px;height: 330px;position: relative;margin: 0 auto;padding-top: 10px}   
+    
+    .r3cu4dro:before{content:'OUR GROUPS';position: absolute;top: -10px;
+    left:350px;color:orange;}
+
+.r3cu4drox{width: 830px;height: 170px;position: relative;margin: 0 auto;padding-top: 10px}  
+
+
+    .rec1{width: 289px; height: 155px;position: relative;left: 0;
+    border: 1px inset transparent;
+    border-image: radial-gradient(#00000000 80%,#ffac28);
+    -moz-border-image: -moz-radial-gradient(#00000000 80% ,#ffac28);
+    -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,#ffac28);
+    border-image-slice: 1;
+    
+    }    
+
+    .rec2{width: 250px; height: 155px;position: absolute;left: 310px;top: 10px;
+    border: 1px inset transparent;
+    border-image: radial-gradient(#00000000 80%,#ffac28);
+    -moz-border-image: -moz-radial-gradient(#00000000 80% ,#ffac28);
+    -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,#ffac28);
+    border-image-slice: 1;
+    }  
+    
+    .rec3{width: 250px; height: 155px;position: absolute;left: 579px;top: 10px;
+    border: 1px inset transparent;
+    border-image: radial-gradient(#00000000 80%,#ffac28);
+    -moz-border-image: -moz-radial-gradient(#00000000 80% ,#ffac28);
+    -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,#ffac28);
+    border-image-slice: 1;
+    } 
+
+/***solo va en el indice***/
