@@ -68,7 +68,34 @@ animation-name: floating;
     margin-top: 5px;
 }
 
+.button-one.floating:hover{transform: scale(1.5)}
+
+.button-two.floating:hover{
+   -webkit-animation: nextarrow 1s infinite; transform: scale(1.5);
+   -moz-animation: nextarrow 1s infinite; 
+   -o-animation: nextarrow 1s infinite;
+   animation: nextarrow 1s infinite; 
+}
+
 @keyframes floating {
+    from { transform: translate(0,  0px); }
+    65%  { transform: translate(0, 15px); }
+    to   { transform: translate(0, -0px); }    
+}
+
+@-webkit-keyframes floating {
+    from { transform: translate(0,  0px); }
+    65%  { transform: translate(0, 15px); }
+    to   { transform: translate(0, -0px); }    
+}
+
+@-o-keyframes floating {
+    from { transform: translate(0,  0px); }
+    65%  { transform: translate(0, 15px); }
+    to   { transform: translate(0, -0px); }    
+}
+
+@-moz-keyframes floating {
     from { transform: translate(0,  0px); }
     65%  { transform: translate(0, 15px); }
     to   { transform: translate(0, -0px); }    
