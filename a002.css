@@ -68,9 +68,9 @@ animation-name: floating;
     margin-top: 5px;
 }
 
-.button-one.floating:hover{transform: scale(1.5)}
+.phlglet.floating:hover{transform: scale(1.5)}
 
-.button-two.floating:hover{
+.phlglet.floating:hover{
    -webkit-animation: nextarrow 1s infinite; transform: scale(1.5);
    -moz-animation: nextarrow 1s infinite; 
    -o-animation: nextarrow 1s infinite;
