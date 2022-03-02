@@ -59,23 +59,20 @@ dd.lastpost{background: linear-gradient(rgb(0,0,0,0), rgb(32 32 32 / 80%), rgb(3
     text-align: center;
     top: 180px;
     width: 445px;
-
 animation-name: floating;
     animation-duration: 3s;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
     margin-left: 30px;
     margin-top: 5px;
+-webkit-transition: all 0.2s ease 0.2s; 
+      -moz-transition: all 0.2s ease 0.2s; 
+      -o-transition: all 0.2s ease 0.2s; 
+      -ms-transition: all 0.2s ease 0.2s;
+      transition: all 0.2s ease 0.2s
 }
 
-.phlglet.floating:hover{transform: scale(1.5)}
-
-.phlglet.floating:hover{
-   -webkit-animation: nextarrow 1s infinite; transform: scale(1.5);
-   -moz-animation: nextarrow 1s infinite; 
-   -o-animation: nextarrow 1s infinite;
-   animation: nextarrow 1s infinite; 
-}
+.phlglet:hover{animation: none!important;opacity: 0.5}
 
 @keyframes floating {
     from { transform: translate(0,  0px); }
