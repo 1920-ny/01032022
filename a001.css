@@ -46,12 +46,27 @@ dd.lastpost{background: linear-gradient(rgb(0,0,0,0), rgb(32 32 32 / 80%), rgb(3
 
 /***solo va en el indice***/
 
-.phlglet{animation-name: floating;
+.phlglet{
+    border-bottom: solid 1px var(--clr2);
+    display: block;
+    font-family: 'Poiret One';
+    font-size: 90pt;
+    font-weight: 700;
+    height: 210px;
+    left: 180px;
+    letter-spacing: 8px;
+    position: relative;
+    text-align: center;
+    top: 180px;
+    width: 445px;
+
+animation-name: floating;
     animation-duration: 3s;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
     margin-left: 30px;
-    margin-top: 5px;}
+    margin-top: 5px;
+}
 
 @keyframes floating {
     from { transform: translate(0,  0px); }
