@@ -11,10 +11,17 @@ dd.lastpost{background: linear-gradient(rgb(0,0,0,0), rgb(32 32 32 / 80%), rgb(3
 
 /***recuadro fuera****/
     
-    .r3cu4dro{width: 830px;height: 330px;position: relative;margin: 0 auto;padding-top: 10px}   
+    .r3cu4dro{width: 830px;height: 330px;position: relative;margin: 0 auto;padding-top: 60px}   
     
-    .r3cu4dro:before{content:'OUR GROUPS';position: absolute;top: -10px;
-    left:350px;color:orange;}
+    .r3cu4dro:before{content: 'A LITTLE PARTY NEVER KILLED NOBODY...';
+    position: absolute;
+    top: 13px;
+    left: 126px;
+    color: orange;
+    font-family: 'Poiret One';
+    font-size: 30px;
+    letter-spacing: 3px;
+    text-shadow: 1px 1px 1px #000;}
 
 .r3cu4drox{width: 830px;height: 170px;position: relative;margin: 0 auto;padding-top: 10px}  
 
