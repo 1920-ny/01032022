@@ -1,8 +1,2 @@
-.prftitulo .topic-title {
-    border-top: 1px inset transparent;
-    -moz-border-image: -moz-radial-gradient(#8d7143 80% , rgba(0 0 0 / 0%) );
-    -webkit-border-image: -webkit-radial-gradient(#8d7143 80% , rgba(0 0 0 / 0%) );
-    border-image: radial-gradient(#8d7143 64% , rgba(0 0 0 / 0%) );
-    border-image-slice: 1;
-    border-bottom: 1px inset transparent;
+.frass5{-webkit-mask-image: linear-gradient(to right, rgba(0,0,0,0) , black, rgba(0,0,0,0)); 
 }
