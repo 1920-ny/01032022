@@ -1496,7 +1496,7 @@ position: absolute;
   
   /***tablon centro***/
 
- .tabfnal{background-color: #1a1a1a;height:600px;width:850px;position:relative;box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.16);
+  .tabfnal{background-color: #1a1a1a;height:600px;width:850px;position:relative;box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.16);
 -webkit-box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.16);
 -moz-box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.16);margin-left: 1px;}
     
@@ -1735,17 +1735,18 @@ position: absolute;
     
     .tabfnal6{display: block;
     position: absolute;
-    top: 0;
+    top: 6px;
     right: 0;
-    height: 15px;
-    width: 280px;
-    /* background: #141414; */
-    /* border: 1px inset transparent; */
-    /* border-image: radial-gradient(#00000000 80%,var(--clr2)); */
-    -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
-    /* -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,var(--clr2)); */
-    /* border-image-slice: 1; */
-    border: solid 1px;}
+    height: 36px;
+    width: 120px;}
+    
+    .tabfnal6 a{display: inline-block;
+    height: 35px;
+    width: 35px;
+    color: white;
+    text-decoration: none;
+    font-size: 34px;
+    margin-right: 18px;}
     
     .tabfnal7{display: block;
     position: absolute;
@@ -1760,7 +1761,11 @@ position: absolute;
     -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,var(--clr2));
     border-image-slice: 1;text-align: center;}
     
-    .tabfnal7a{display: inline-block;
-    height: 94px;
-    width: 115px;
-    background: black;}
+    .tabfnal7a{border: solid 1px black;
+    display: inline-block;
+    height: 35px;
+    width: 35px;
+    color: white;
+    text-decoration: none;
+    font-size: 34px;
+    margin-right: 10px;}
