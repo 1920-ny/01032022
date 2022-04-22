@@ -1496,7 +1496,7 @@ position: absolute;
   
   /***tablon centro***/
 
-.tabfnal{background-color: #1a1a1a;height:600px;width:850px;position:relative;box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.16);
+ .tabfnal{background-color: #1a1a1a;height:600px;width:850px;position:relative;box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.16);
 -webkit-box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.16);
 -moz-box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.16);margin-left: 1px;}
     
@@ -1532,15 +1532,14 @@ position: absolute;
 .tabfnal1{position: absolute;
     top: 145px;
     height: 345px;
-    width: 235px;
+    width: 245px;
     left: 3px;
     background: #141414;
     border: 1px inset transparent;
     border-image: radial-gradient(#00000000 80%,var(--clr2));
     -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
     -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,var(--clr2));
-    border-image-slice: 1;
-    padding-left: 10px;}    
+    border-image-slice: 1;}    
   
     .tabfnal1a{display: block;height: 70px;text-shadow: 1px 1px 1px #000;position:relative;}   
     .tabfnal1b{    height: 40px;
@@ -1704,11 +1703,10 @@ position: absolute;
     padding: 5px;}
     
     .tabfnal4a{display: inline-block;
-    border: solid 1px #2e2e2e;
+    border: solid 1px grey;
     width: 46px;
     height: 46px;
-    margin-left: 3px;
-    margin-bottom: 4px;}
+    margin-left: 4px;}
     
     .tabfnal5{display: block;
     position: absolute;
@@ -1722,6 +1720,17 @@ position: absolute;
     -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
     -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,var(--clr2));
     border-image-slice: 1;}
+    
+    .tabfnal5a{
+    overflow-x: hidden;
+    width: 274px;
+    height: 170px;
+    display: block;
+    /* border: solid 1px grey; */
+    position: absolute;
+    top: 0;
+    left: 0;    
+    }
     
     .tabfnal6{display: block;
     position: absolute;
@@ -1748,4 +1757,9 @@ position: absolute;
     border-image: radial-gradient(#00000000 80%,var(--clr2));
     -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
     -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,var(--clr2));
-    border-image-slice: 1;}  
+    border-image-slice: 1;text-align: center;}
+    
+    .tabfnal7a{display: inline-block;
+    border: solid 1px grey;
+    height: 96px;
+    width: 114px;}
