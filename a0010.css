@@ -1703,9 +1703,11 @@ position: absolute;
     padding: 5px;}
     
     .tabfnal4a{display: inline-block;
-    border: solid 1px grey;
+    border: solid 1px #2e2e2e;
     width: 46px;
-    height: 46px;}
+    height: 46px;
+    margin-left: 3px;
+    margin-bottom: 4px;}
     
     .tabfnal5{display: block;
     position: absolute;
