@@ -1532,14 +1532,15 @@ position: absolute;
 .tabfnal1{position: absolute;
     top: 145px;
     height: 345px;
-    width: 245px;
+    width: 235px;
     left: 3px;
     background: #141414;
     border: 1px inset transparent;
     border-image: radial-gradient(#00000000 80%,var(--clr2));
     -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
     -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,var(--clr2));
-    border-image-slice: 1;}    
+    border-image-slice: 1;
+    padding-left: 10px;}    
   
     .tabfnal1a{display: block;height: 70px;text-shadow: 1px 1px 1px #000;position:relative;}   
     .tabfnal1b{    height: 40px;
