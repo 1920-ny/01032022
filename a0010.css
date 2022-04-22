@@ -1706,7 +1706,8 @@ position: absolute;
     border: solid 1px grey;
     width: 46px;
     height: 46px;
-    margin-left: 4px;}
+   margin-left: 3px;
+    margin-bottom: 3px;}
     
     .tabfnal5{display: block;
     position: absolute;
@@ -1760,6 +1761,6 @@ position: absolute;
     border-image-slice: 1;text-align: center;}
     
     .tabfnal7a{display: inline-block;
-    border: solid 1px grey;
-    height: 96px;
-    width: 114px;}
+    height: 94px;
+    width: 115px;
+    background: black;}
