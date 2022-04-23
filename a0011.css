@@ -16,7 +16,7 @@
   
 .sceditor-container iframe, .sceditor-container textarea {color:#988F81!important;}
   
-  div.sceditor-toolbar{border:0!important}
+  div.sceditor-toolbar{border:0!important;text-align: center;}
   
   
   #resquick{
