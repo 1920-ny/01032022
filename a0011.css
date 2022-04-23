@@ -1,0 +1,71 @@
+  /*respuestarapida*/
+  
+ form#quick_reply div#textarea_content{
+  width: 98%!important;
+  box-shadow: 1px 1px 15px 1px rgb(0 0 0 / 16%);
+    -webkit-box-shadow: 1px 1px 15px 1px rgb(0 0 0 / 16%);
+    -moz-box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.16);
+  }
+  
+  
+ .sceditor-container{
+    border: 0!important;
+    border-radius: 0!important;
+  color:#988F81!important;
+  } 
+  
+.sceditor-container iframe, .sceditor-container textarea {color:#988F81!important;}
+  
+  div.sceditor-toolbar{border:0!important}
+  
+  
+  #resquick{
+  background: var(--clr1);
+    padding-bottom: 100px;
+    position: relative;
+  }
+  
+#resquick:before {
+    background: linear-gradient(rgba(0,0,0,0),var(--clr2),var(--clr2),rgba(0,0,0,0));
+    content: '';
+    height: 100%;
+    position: absolute;
+    left: -10px;
+    top: 1px;
+    width: 1px;
+}   
+  
+#resquick:after {
+    background: linear-gradient(rgba(0,0,0,0),var(--clr2),var(--clr2),rgba(0,0,0,0));
+    content: '';
+    height: 100%;
+    position: absolute;
+    right: -10px;
+    top: 1px;
+    width: 1px;
+}     
+  
+ .sceditor-button div {
+    background-image: url(https://i.imgur.com/HI1AFV1.png)!important;
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+} 
+
+div.sceditor-group {
+-webkit-background-clip:none!important;
+background: #181818!important;
+border:0!important;
+border-radius: 0!important;
+margin: 1px 12px 1px 0!important;
+}
+
+#resquick div.h3{text-align: center;
+    position: absolute;
+    top: -38px;
+    width: 100%;
+    font-family: 'Jost';
+    letter-spacing: 2px;
+    font-size: 12px;
+    text-shadow: 1px 1px 1px #000;  
+  }  
