@@ -1,0 +1,76 @@
+  /**** TABLILLA ****/
+
+    .a0tabll{
+    width: 400px;
+    position: relative;
+    margin: 0 auto; 
+    }
+    
+    .a0tabll:after{border-image-slice: 1;
+    border-image-source: linear-gradient(rgba(0,0,0,0),var(--clr2),var(--clr2),rgba(0,0,0,0))!important;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    content: "";
+    display: block;width: 418px;
+    height: 100%;top: 0;
+    left: -10px;
+    pointer-events: none;
+    position: absolute;}
+    
+    
+    .a01tabll{
+    height: 200px;
+    width: 380px;
+    position: relative;
+    margin-top: 10px;
+        margin-left: 9px;   
+        border: 1px inset transparent;
+    border-image: radial-gradient(#00000000 80%,#ffac28);
+    -moz-border-image: -moz-radial-gradient(#00000000 80% ,#ffac28);
+    -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,#ffac28);
+    border-image-slice: 1;background-size: cover}
+    
+    .a02tabll{color: white;
+    width: 399px;position: relative;
+    padding: 5px;
+    text-align: center;}
+    
+    .a03tabll{display: block;
+    position: relative;
+    width: 400px;
+    margin-top: 14px;color: #ffac28;
+    text-align: center;
+    line-height: 1;
+    margin-bottom: 5px;
+    font-family: 'Josefin Sans';
+    font-size: 22px;text-shadow: 1px 1px 1px #000;
+    padding-top: 5px;}
+    
+    .a03tabll:before{content:'';display: block;width:100%;height: 1px;position: absolute;top: -5px;    background: linear-gradient(0.25turn,rgba(0,0,0,0),#ffac28,#ffac28,rgba(0,0,0,0));}
+    
+    .a03tabll:after{content:'';display: block;width:100%;height: 1px;position: absolute;bottom: -5px;    background: linear-gradient(0.25turn,rgba(0,0,0,0),#ffac28,#ffac28,rgba(0,0,0,0));}    
+    
+    .a04tabll{width: 350px;
+    margin-left: 6px;
+    padding: 18px;
+    background: #121212;
+    color: grey;
+    text-align: justify;
+    border: 1px inset transparent;
+    border-image: radial-gradient(#00000000 80%,#ffac28);
+    -moz-border-image: -moz-radial-gradient(#00000000 80% ,#ffac28);
+    -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,#ffac28);
+    border-image-slice: 1;
+    font-size: 13px;
+    font-family: 'Jost';
+    line-height: 1.9;
+}
+    
+    .a05tabll{position: relative;bottom: 0;widows: 100%;text-align: center;display: block;margin-top: 5px;
+    font-size: 10px;
+}
+  
+  .content{overflow:unset!important}
+  .content img {max-width:380px}
+    
+  /**** TABLILLA ****/
