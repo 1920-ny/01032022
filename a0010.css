@@ -1765,7 +1765,7 @@ position: absolute;
     display: inline-block;
     height: 94px;
     width: 114px;position: relative;
-    color: white;
+    color: white;margin-right: 4px;
     text-decoration: none;transition: all .3s ease-out;}
     
     .tabfnal7a:hover{filter: sepia(1) brightness(0.5);}
