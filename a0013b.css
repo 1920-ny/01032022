@@ -46,7 +46,7 @@ position: absolute;border: 0;margin-top: 1px;margin-left: 1px;background:url(htt
 .postprofile-field-avatar-alternativo img{position: absolute;top: 0px;left: 0;border: 0;width: 290px; height: 420px;}
 .postprofile-field-habilidades{overflow-x: hidden;}
 
-.acreg1,.acreg0:before,.acreg0:after{color:#db9433;}
+    .acreg1,.acreg0:before,.acreg0:after{color:#db9433;}
     .acreg2,.acreg1,.acreg0:after{font-family: 'jost';}
     .acreg2,.acreg0:before,.acreg0:after{font-size: 10px;}
     .acreg0:after,.acreg0:before,.acreg1:after{position: absolute;}
@@ -54,9 +54,9 @@ position: absolute;border: 0;margin-top: 1px;margin-left: 1px;background:url(htt
     border-image: radial-gradient(#00000000 80%,#ffac28);
     -moz-border-image: -moz-radial-gradient(#00000000 80% ,#ffac28);
     -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,#ffac28);
-    border-image-slice: 1;padding: 20px;text-align: center;display: block;margin: 0 auto;position: relative;margin-top: 15px;text-shadow: 1px 1px 1px #000;}  
+    border-image-slice: 1;padding: 20px;text-align: center;display: block;margin: 0 auto;position: relative;margin-top: 15px;text-shadow: 1px 1px 1px #000;line-height:1!important;}  
     .acreg1{margin-bottom: 10px;position: relative;letter-spacing: 1px;font-weight: bold;font-size: 16px;}
     .acreg2{color: white;letter-spacing: 2px;} 
-   .acreg1:after{display: block;width:280px;content:''; height: 1px;-webkit-mask-image: linear-gradient(to right, rgba(0,0,0,0) , #db9433, rgba(0,0,0,0));bottom: -5px;left: 0;}  
+   .acreg1:after{display: block;width:280px;content:''; height: 1px;bottom: -5px;left: 0;background: linear-gradient(0.25turn,rgba(0,0,0,0),#db9433,rgba(0,0,0,0));}  
     .acreg0:before{content:'\eae1';font-family: cappuccicons;font-size: 24px;height: 20px;left: 147px;top: -12px;width: 20px;}
     .acreg0:after{content: '- 1920 NY -';bottom: -5px;left: 133px;font-weight: bold;}
