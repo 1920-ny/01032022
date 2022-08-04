@@ -1539,7 +1539,7 @@ position: absolute;
     
 .tabfnal1{position: absolute;
     top: 145px;
-    height: 345px;
+    height: 280px;
     width: 245px;
     left: 3px;
     background: var(--clr3);
@@ -1602,8 +1602,8 @@ position: absolute;
     
 .tabfnal2{position: absolute;
     top: 145px;
-    left: 260px;
-    height: 140px;
+    left: 255px;
+    height: 165px;
     width: 285px;
     padding: 5px;
     overflow: auto;
@@ -1611,8 +1611,7 @@ position: absolute;
     border-image: radial-gradient(#00000000 80%,var(--clr2));
     -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
     -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,var(--clr2));
-    border-image-slice: 1;
-    background: var(--clr3);
+    border-image-slice: 1;background: var(--clr3);
     } 
 
     .tabfnal2a{display: block;
@@ -1634,11 +1633,10 @@ position: absolute;
     
 
 .tabfnal3{position: absolute;
-    top: 308px;
-    text-shadow: 1px 1px 1px #000;
-    left: 260px;
-    height: 172px;
-    width: 285px;
+    top: 145px;
+    right: 562px;
+    height: 332px;
+    width: 276px;
     padding: 5px;
     overflow: auto;
     border: 1px inset transparent;
@@ -1646,7 +1644,8 @@ position: absolute;
     -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
     -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,var(--clr2));
     border-image-slice: 1;
-    background: var(--clr3);}  
+    background: var(--clr3);
+    right: 5px;}  
     
     .tabfnal3 a{text-decoration: none!important;}    
     
@@ -1697,18 +1696,19 @@ position: absolute;
     
     .tabfnal4{display: block;
     position: absolute;
-    top: 145px;
-    right: 3px;
-    height: 152px;
-    width: 269px;
-   background: var(--clr3);
+    bottom: 111px;
+    left: 255px;
+    height: 150px;
+    width: 284px;
+    background: var(--clr3);
     border: 1px inset transparent;
     border-image: radial-gradient(#00000000 80%,var(--clr2));
     -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
     -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,var(--clr2));
     border-image-slice: 1;
     overflow: auto;
-    padding: 5px;}
+    padding: 5px;
+    text-align: center;}
     
     .tabfnal4a{display: inline-block;
     border: solid 1px grey;
@@ -1719,16 +1719,17 @@ position: absolute;
     
     .tabfnal5{display: block;
     position: absolute;
-    top: 320px;
-    right: 3px;
-    height: 170px;
-    width: 279px;
+    top: 432px;
+    right: 600px;
+    height: 161px;
+    width: 245px;
     background: var(--clr3);
     border: 1px inset transparent;
     border-image: radial-gradient(#00000000 80%,var(--clr2));
     -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
     -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,var(--clr2));
-    border-image-slice: 1;}
+    border-image-slice: 1;
+    overflow: hidden;}
     
     .tabfnal5a{
     overflow-x: hidden;
@@ -1758,16 +1759,17 @@ position: absolute;
     
 .tabfnal7{display: block;
     position: absolute;
-    top: 499px;
-    left: 3px;
-    height: 96px;
-    width: 842px;
+    left: 255px;
+    height: 99px;
+    width: 588px;
     background: var(--clr3);
     border: 1px inset transparent;
     border-image: radial-gradient(#00000000 80%,var(--clr2));
     -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
     -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,var(--clr2));
-    border-image-slice: 1;text-align: center;}
+    border-image-slice: 1;
+    text-align: center;
+    bottom: 5px;}
     
     .tabfnal7a{border: solid 1px #1e1e1e;
     display: inline-block;
