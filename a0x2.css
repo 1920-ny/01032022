@@ -1654,7 +1654,7 @@ position: absolute;
     font-family: 'hind';position: relative;
     padding-left: 30px;
     font-size: 10px;transition: all .2s ease-out 0s;
-    font-weight: bold;width: 90%;
+    width: 90%;
     line-height: 1;
     letter-spacing: 2px;
     text-align: center;
@@ -1682,7 +1682,6 @@ position: absolute;
     letter-spacing: 1px;
     padding-left: 30px;
     font-size: 14px;
-    font-weight: bold;
     line-height: 1;}
     
     .tabfnal3c{display: block;
@@ -1691,7 +1690,6 @@ position: absolute;
     letter-spacing: 1px;
     padding-left: 30px;
     font-size: 12px;
-    font-weight: bold;
     line-height: 1;}
     
     .tabfnal4{display: block;
