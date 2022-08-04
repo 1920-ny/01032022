@@ -1495,10 +1495,18 @@ position: absolute;
   
   
   /***tablon centro***/
-
-.tabfnal{background-color: #1a1a1a;height:600px;width:850px;position:relative;box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.16);
--webkit-box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.16);
--moz-box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.16);margin-left: 1px;}
+.tabfnal {
+    background-color: var(--clr1);
+    height: 600px;
+    width: 850px;
+    position: relative;
+    box-shadow: 1px 1px 15px 1px rgb(0 0 0 / 16%);
+    -webkit-box-shadow: 1px 1px 15px 1px rgb(0 0 0 / 16%);
+    -moz-box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.16);
+    margin-left: 1px;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
     
 .tabfnal:after{content: "";
     display: block;
@@ -1534,7 +1542,7 @@ position: absolute;
     height: 345px;
     width: 245px;
     left: 3px;
-    background: #141414;
+    background: var(--clr3);
     border: 1px inset transparent;
     border-image: radial-gradient(#00000000 80%,var(--clr2));
     -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
@@ -1604,7 +1612,7 @@ position: absolute;
     -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
     -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,var(--clr2));
     border-image-slice: 1;
-    background: #141414;
+    background: var(--clr3);
     } 
 
     .tabfnal2a{display: block;
@@ -1638,7 +1646,7 @@ position: absolute;
     -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
     -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,var(--clr2));
     border-image-slice: 1;
-    background: #141414;}  
+    background: var(--clr3);}  
     
     .tabfnal3 a{text-decoration: none!important;}    
     
@@ -1693,7 +1701,7 @@ position: absolute;
     right: 3px;
     height: 152px;
     width: 269px;
-    background: #141414;
+   background: var(--clr3);
     border: 1px inset transparent;
     border-image: radial-gradient(#00000000 80%,var(--clr2));
     -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
@@ -1715,7 +1723,7 @@ position: absolute;
     right: 3px;
     height: 170px;
     width: 279px;
-    background: #141414;
+    background: var(--clr3);
     border: 1px inset transparent;
     border-image: radial-gradient(#00000000 80%,var(--clr2));
     -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
@@ -1754,7 +1762,7 @@ position: absolute;
     left: 3px;
     height: 96px;
     width: 842px;
-    background: #141414;
+    background: var(--clr3);
     border: 1px inset transparent;
     border-image: radial-gradient(#00000000 80%,var(--clr2));
     -moz-border-image: -moz-radial-gradient(#00000000 80% ,var(--clr2));
