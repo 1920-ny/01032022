@@ -42,7 +42,7 @@ h1.page-title{display: flow-root;}
 .postprofile-field-face-claim:after{content:'\ecb5'}   
 .postprofile-field-face-claim:after,.postprofile-field-estatura:after,.postprofile-field-humor:after,.postprofile-field-apodo:after, .postprofile-field-nacionalidad:after,.postprofile-field-cumpleanos:after,.postprofile-field-orientacion-sexual:after,.postprofile-field-estado-civil:after,.postprofile-field-localizacion:after,.postprofile-field-pareja-actual:after{-webkit-backface-visibility: hidden;font-family: cappuccicons;font-size: 12px;left: 7px;color: white;pointer-events: none;position: absolute;text-shadow: 1px 1px 1px #000;top: 3px;font-weight: normal}  
 .postprofile-tab-content.active{
-position: absolute;border: 0;margin-top: 1px;margin-left: 1px;background:url(https://i.imgur.com/nKacYqm.png);background-size;cover}  
+position: absolute;border: 0;margin-top: 1px;margin-left: 1px;background:url(https://i.imgur.com/NahTxdA.jpg);background-size;cover}  
 .postprofile-field-avatar-alternativo img{position: absolute;top: 0px;left: 0;border: 0;width: 290px; height: 420px;}
 .postprofile-field-habilidades{overflow-x: hidden;}
 
