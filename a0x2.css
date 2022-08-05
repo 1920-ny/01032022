@@ -1616,7 +1616,6 @@ position: absolute;
 
     .tabfnal2a{display: block;
     font-family: 'Hind';
-    color: white;
     position: relative;
     font-size: 10px;
     letter-spacing: 1px;
@@ -1658,7 +1657,7 @@ position: absolute;
     line-height: 1;
     letter-spacing: 2px;
     text-align: center;
-    background: #282828;
+    background: #c7c7c7;
     padding: 3px;margin-bottom: 10px;}   
     
     .tabfnal3a:hover{transform: scale(1.05);width: 96%;}
@@ -1672,7 +1671,7 @@ position: absolute;
     left: 0;
     width: 26px;
     height: 26px;
-    background: #464545;
+    background: #fff;
     padding: 3px;
     font-weight: normal;}    
     
