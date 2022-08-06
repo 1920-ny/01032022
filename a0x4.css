@@ -18,7 +18,7 @@ h1.page-title{display: flow-root;}
 .postprofile-field-imagen-personal{border-bottom:solid 1px;background:#0f0f0f;width:282px;width:288px;position:relative;top:0;left:0;} 
 .postprofile-field-imagen-personal img {min-width:288px; max-width:288px; min-height:176px;max-height:176px;}
 .postprofile-field-imagen-personal:after{content:'';position:absolute;bottom:0;left:0;height:80px;width:100%;pointer-events:none;background: linear-gradient(rgba(0,0,0,0), rgba(22,22,22,0.9));}  
-.postprofile-field-face-claim, .postprofile-field-humor, .postprofile-field-pareja-actual, .postprofile-field-localizacion, .postprofile-field-estado-civil, .postprofile-field-orientacion-sexual, .postprofile-field-apodo, .postprofile-field-cumpleanos, .postprofile-field-nacionalidad, .postprofile-field-estatura{display: block;margin-left: 12px;padding-left: 25px;font-family: 'jost';text-transform: uppercase;font-weight: bold;font-size: 9px;letter-spacing: 0.5px;text-align: left;width: 231px;position: relative;padding-top: 3px;padding-bottom: 3px;}
+.postprofile-field-face-claim, .postprofile-field-humor, .postprofile-field-pareja-actual, .postprofile-field-localizacion, .postprofile-field-estado-civil, .postprofile-field-orientacion-sexual, .postprofile-field-apodo, .postprofile-field-cumpleanos, .postprofile-field-nacionalidad, .postprofile-field-estatura{display: block;margin-left: 12px;padding-left: 25px;font-family: 'jost';text-transform: uppercase;font-weight: bold;font-size:10px;letter-spacing: 0.5px;text-align: left;width: 231px;position: relativepadding-bottom: 3px;}
 .postprofile-field-apodo:after{content:'\eb02'}  
 .postprofile-field-nacionalidad:after{content:'\eaad'}  
 .postprofile-field-cumpleanos:after{content:'\e9a3'} 
@@ -29,7 +29,7 @@ h1.page-title{display: flow-root;}
 .postprofile-field-humor:after{content:'\e969'}  
 .postprofile-field-estatura:after{content:'\eb5c'} 
 .postprofile-field-face-claim:after{content:'\ecb5'}   
-.postprofile-field-face-claim:after,.postprofile-field-estatura:after,.postprofile-field-humor:after,.postprofile-field-apodo:after, .postprofile-field-nacionalidad:after,.postprofile-field-cumpleanos:after,.postprofile-field-orientacion-sexual:after,.postprofile-field-estado-civil:after,.postprofile-field-localizacion:after,.postprofile-field-pareja-actual:after{-webkit-backface-visibility: hidden;font-family: cappuccicons;font-size: 12px;left: 7px;color: white;pointer-events: none;position: absolute;text-shadow: 1px 1px 1px #000;top: 3px;font-weight: normal}  
+.postprofile-field-face-claim:after,.postprofile-field-estatura:after,.postprofile-field-humor:after,.postprofile-field-apodo:after, .postprofile-field-nacionalidad:after,.postprofile-field-cumpleanos:after,.postprofile-field-orientacion-sexual:after,.postprofile-field-estado-civil:after,.postprofile-field-localizacion:after,.postprofile-field-pareja-actual:after{-webkit-backface-visibility: hidden;font-family: cappuccicons;font-size: 12px;left: 7px;pointer-events: none;position: absolute;top: 3px;font-weight: normal}  
 .postprofile-tab-content.active{position: absolute;border:0;background:url(https://i.imgur.com/NahTxdA.jpg);background-size;cover}  
 .postprofile-field-avatar-alternativo img{position: absolute;top: 0px;left: 0;border: 0;width: 290px; height: 420px;}
 .postprofile-field-habilidades{overflow-x: hidden;}
