@@ -1,6 +1,6 @@
 h1.page-title{display: flow-root;}   
 .lospermis br{display: none;}.lospermis strong{margin-left:20px;}.lospermis strong:before{content:"⨻ "}  
-.lospermis{padding: 10px;padding-right: 50px;height: 10px;position: relative;bottom: 25px;left: 0;letter-spacing: 1px;font-family: open sans; display: inline-block;width: 790px;font-size: 10px;background: #121212;z-index: -1;text-align: center;text-transform: uppercase;color: #464646;}
+.lospermis{padding: 10px;padding-right: 50px;height: 10px;position: relative;bottom: 25px;left: 0;letter-spacing: 1px;font-family: open sans; display: inline-block;width: 790px;font-size: 10px;background:#ababab;z-index: -1;text-align: center;text-transform: uppercase;color: #464646;}
 .inpoll{position:relative;top:0;left:0;margin-bottom: 40px;}
 .inpoll .content{position: relative;float: left;width: 100%;}
 .postprofile-fields{text-shadow: 1px 1px 1px #000;} 
