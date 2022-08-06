@@ -1,0 +1,50 @@
+h1.page-title{display: flow-root;}   
+.lospermis br{display: none;}.lospermis strong{margin-left:20px;}.lospermis strong:before{content:"⨻ "}  
+.lospermis{padding: 10px;padding-right: 50px;height: 10px;position: relative;bottom: 25px;left: 0;letter-spacing: 1px;font-family: open sans; display: inline-block;width: 790px;font-size: 10px;background:#ababab;z-index: -1;text-align: center;text-transform: uppercase;color: #464646;}
+.inpoll{position:relative;top:0;left:0;margin-bottom: 40px;}
+.inpoll .content{position: relative;float: left;width: 100%;}
+.postprofile-field-label {display:none;}
+.postprofile-field-mensajes {position: absolute;top: 155px;right: 26px;font-family: 'Jost';font-size: 16px;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;color: white;} 
+.postprofile-field-mensajes:after{content:'\ec15';font-family: cappuccicons;font-size: 16px;right: -22px; pointer-events: none;position: absolute;text-shadow: 1px 1px 1px #000;top: 1px;font-weight: normal;}   
+.postprofile-field-dolares {width: 100%;position: relative;top: 0;left: 0;font-family: 'Jost';font-size: 16px;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;color:#e19d38;margin-bottom: 5px;}   
+.postprofile-field-dolares:before {font-family: cappuccicons;font-size: 16px;left: 100px;content: '\eb91';pointer-events: none;position: absolute;text-shadow: 1px 1px 1px #000;top: 3px;font-weight: normal;}  
+.postprofile-field-vidas{display: block;width: 25px;position: absolute;top: 144px;left: 10px;font-family: 'Jost';font-size: 17px;text-shadow: 1px 1px 1px #000;text-align: center;letter-spacing: 1px;color: white;z-index: 1;} 
+.postprofile-field-vidas:before{content: '\eb03';font-family: cappuccicons;font-size: 31px;position: absolute;top: -3px;left: -3px;width: 30px;height: 30px;color: #8d3333;z-index: -1;pointer-events: none;}  
+.postprofile-field-edad {position: absolute;top: 197px;left: 241px;font-size: 20px;font-family: jost;font-weight: bold;color:#323232;}  
+.postprofile-field-edad:after {content: 'AÑOS';position: absolute;top: 21px;left: 0;font-size: 9px;color:#323232;font-weight:bold;letter-spacing: 1px;}   
+.postprofile-field-empleo-ocupacion {font-family: jost;left: 13px;letter-spacing: 3px;position: relative;text-align: center;top: 0;width: 255px;font-size: 14px;text-transform: uppercase;font-weight: bold;border-top: dotted 1px;margin-top: 5px;padding-top: 5px;border-bottom: dotted 1px;margin-bottom: 5px;padding-bottom: 5px;}    
+.postprofile-field-cs{display: block;display: block;position: relative;top: 0;width: 281px;text-align: center;background: linear-gradient(rgb(16 16 16 / 38%), rgba(0,0,0,0));font-family: 'Jost';font-size: 18px;letter-spacing: 5px;padding-top: 30px;height: 18px;}  
+.postprofile-field-cs img{position: absolute;top: 0;left: 0;} 
+.postprofile-field-imagen-personal{border-bottom:solid 1px;background:#0f0f0f;width:282px;width:288px;position:relative;top:0;left:0;} 
+.postprofile-field-imagen-personal img {min-width:288px; max-width:288px; min-height:176px;max-height:176px;}
+.postprofile-field-imagen-personal:after{content:'';position:absolute;bottom:0;left:0;height:80px;width:100%;pointer-events:none;background: linear-gradient(rgba(0,0,0,0), rgba(22,22,22,0.9));}  
+.postprofile-field-face-claim, .postprofile-field-humor, .postprofile-field-pareja-actual, .postprofile-field-localizacion, .postprofile-field-estado-civil, .postprofile-field-orientacion-sexual, .postprofile-field-apodo, .postprofile-field-cumpleanos, .postprofile-field-nacionalidad, .postprofile-field-estatura{display: block;margin-left: 12px;padding-left: 25px;font-family: 'jost';text-transform: uppercase;font-weight: bold;font-size: 9px;letter-spacing: 0.5px;text-align: left;width: 231px;position: relative;padding-top: 3px;padding-bottom: 3px;}
+.postprofile-field-apodo:after{content:'\eb02'}  
+.postprofile-field-nacionalidad:after{content:'\eaad'}  
+.postprofile-field-cumpleanos:after{content:'\e9a3'} 
+.postprofile-field-orientacion-sexual:after{content:'\ea58'} 
+.postprofile-field-estado-civil:after{content:'\e9da'} 
+.postprofile-field-localizacion:after{content:'\eb68'} 
+.postprofile-field-pareja-actual:after{content:'\eb03'}  
+.postprofile-field-humor:after{content:'\e969'}  
+.postprofile-field-estatura:after{content:'\eb5c'} 
+.postprofile-field-face-claim:after{content:'\ecb5'}   
+.postprofile-field-face-claim:after,.postprofile-field-estatura:after,.postprofile-field-humor:after,.postprofile-field-apodo:after, .postprofile-field-nacionalidad:after,.postprofile-field-cumpleanos:after,.postprofile-field-orientacion-sexual:after,.postprofile-field-estado-civil:after,.postprofile-field-localizacion:after,.postprofile-field-pareja-actual:after{-webkit-backface-visibility: hidden;font-family: cappuccicons;font-size: 12px;left: 7px;color: white;pointer-events: none;position: absolute;text-shadow: 1px 1px 1px #000;top: 3px;font-weight: normal}  
+.postprofile-tab-content.active{position: absolute;border:0;background:url(https://i.imgur.com/NahTxdA.jpg);background-size;cover}  
+.postprofile-field-avatar-alternativo img{position: absolute;top: 0px;left: 0;border: 0;width: 290px; height: 420px;}
+.postprofile-field-habilidades{overflow-x: hidden;}
+
+    .acreg1,.acreg0:before,.acreg0:after{color:#db9433;}
+    .acreg2,.acreg1,.acreg0:after{font-family: 'jost';}
+    .acreg2,.acreg0:before,.acreg0:after{font-size: 10px;}
+    .acreg0:after,.acreg0:before,.acreg1:after{position: absolute;}
+    .acreg0{width:280px;height:auto;border: 1px inset transparent;
+    border-image: radial-gradient(#00000000 80%,#ffac28);
+    -moz-border-image: -moz-radial-gradient(#00000000 80% ,#ffac28);
+    -webkit-border-image: -webkit-radial-gradient(#00000000 80% ,#ffac28);
+    border-image-slice: 1;padding: 20px;text-align: center;display: block;margin: 0 auto;position: relative;margin-top: 15px;line-height:1!important;}  
+    .acreg1{margin-bottom: 10px;position: relative;letter-spacing: 1px;font-weight: bold;font-size: 16px;}
+    .acreg2{letter-spacing:1px;} 
+   .acreg1:after{display: block;width:280px;content:''; height: 1px;bottom: -5px;left: 0;background: linear-gradient(0.25turn,rgba(0,0,0,0),#db9433,rgba(0,0,0,0));}  
+    .acreg0:before{content:'\eae1';font-family: cappuccicons;font-size: 24px;height: 20px;left: 147px;top: -12px;width: 20px;}
+    .acreg0:after{content: '- 1920 NY -';bottom: -5px;left: 133px;font-weight: bold;}
