@@ -18,7 +18,7 @@ h1.page-title{display: flow-root;}
 .postprofile-field-imagen-personal{border-bottom:solid 1px;background:#0f0f0f;width:282px;width:288px;position:relative;top:0;left:0;} 
 .postprofile-field-imagen-personal img {min-width:288px; max-width:288px; min-height:176px;max-height:176px;}
 .postprofile-field-imagen-personal:after{content:'';position:absolute;bottom:0;left:0;height:80px;width:100%;pointer-events:none;background: linear-gradient(rgba(0,0,0,0), rgba(22,22,22,0.9));}  
-.postprofile-field-face-claim, .postprofile-field-humor, .postprofile-field-pareja-actual, .postprofile-field-localizacion, .postprofile-field-estado-civil, .postprofile-field-orientacion-sexual, .postprofile-field-apodo, .postprofile-field-cumpleanos, .postprofile-field-nacionalidad, .postprofile-field-estatura{display: block;margin-left: 12px;padding-left: 25px;font-family: 'jost';text-transform: uppercase;font-weight: bold;font-size:10px;letter-spacing: 0.5px;text-align: left;width: 231px;position: relativepadding-bottom: 3px;}
+.postprofile-field-face-claim, .postprofile-field-humor, .postprofile-field-pareja-actual, .postprofile-field-localizacion, .postprofile-field-estado-civil, .postprofile-field-orientacion-sexual, .postprofile-field-apodo, .postprofile-field-cumpleanos, .postprofile-field-nacionalidad, .postprofile-field-estatura{display: block;margin-left: 12px;padding-left: 25px;font-family: 'jost';text-transform: uppercase;font-weight: bold;font-size:10px;letter-spacing: 0.5px;text-align: left;width: 231px;position: relative;padding-bottom: 3px;}
 .postprofile-field-apodo:after{content:'\eb02'}  
 .postprofile-field-nacionalidad:after{content:'\eaad'}  
 .postprofile-field-cumpleanos:after{content:'\e9a3'} 
