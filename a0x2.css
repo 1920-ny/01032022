@@ -1,13 +1,11 @@
-/*menu*/
-
 .thor00{position: fixed;display: block;width: 50px;height: 100%;top:0;left: 0;z-index: 9999999!important;}
     
-    .thor0{display: block;position: absolute;height: 100%;width: 450px;background: rgba(40,40,40, 0.9);top: 0;left: -451px; transition: all .5s ease-out 0s;border-top: solid 50px #141414;border-right: solid 1px #141414;
-  box-shadow: 11px 10px 5px -8px rgba(0,0,0,0.4);
+.thor0{display: block;position: absolute;height: 100%;width: 450px;background: rgba(40,40,40, 0.9);top: 0;left: -451px; transition: all .5s ease-out 0s;border-top: solid 50px #141414;border-right: solid 1px #141414;
+box-shadow: 11px 10px 5px -8px rgba(0,0,0,0.4);
 -webkit-box-shadow: 11px 10px 5px -8px rgba(0,0,0,0.4);
 -moz-box-shadow: 11px 10px 5px -8px rgba(0,0,0,0.4);}
     
-    .thor0:hover{left:0;display: block;}
+.thor0:hover{left:0;display: block;}
  
     .thor0:before{
     content: 'NAVEGACIÓN';
@@ -148,7 +146,7 @@ top: 0;
     .thor2b{
 display: inline-flex;
     border: double 4px #3a3a3a;
-    width: 195px;
+    width: 180px;
     height: 200px;
     background: #bfb6a6;
     color: #3a3a3a;position: relative;
@@ -168,7 +166,7 @@ position: absolute;
     }
     .thor2b2{
      position: absolute;
-    width: 186px;
+    width: 170px;
     top: 102px;
     left: 5px;
     height: 92px;
@@ -185,11 +183,11 @@ position: absolute;
     bottom: 0;
     left: 9px;
     height: 1px;
-    width: 170px;
+    width: 155px;
     background: #3a3a3a;}
     
     .thor2c{display: inline-flex;
-    width: 163px;
+    width: 153px;
     height: 305px;
     float: right;
     position: relative;
@@ -236,7 +234,7 @@ position: absolute;
     
     .thor2d{
     display: inline-flex;
-    width: 195px;
+    width: 180px;
     height: 170px;
     float: left;
     margin-top: 1px;
@@ -259,9 +257,8 @@ position: absolute;
     letter-spacing: 2px;
     }
     
-    .thor2d2{
-position: absolute;
-    width: 184px;
+    .thor2d2{position: absolute;
+    width: 170px;
     top: 96px;
     left: 6px;
     height: 71px;
@@ -273,18 +270,17 @@ position: absolute;
     font-weight: 600;  
     }
     
-    .thor2d1:after{    content: '';
+    .thor2d1:after{content: '';
     position: absolute;
     bottom: 0px;
     left: 9px;
     height: 1px;
-    width: 169px;
+    width: 155px;
     background: #3a3a3a;}
-        
-    
+           
     .thor2e{
 display: inline-flex;
-    width: 163px;
+    width: 153px;
     height: 210px;
     float: right;
     margin-top: 6px;
@@ -310,7 +306,7 @@ position: absolute;
     
     .thor2e2{
 position: absolute;
-    width: 153px;
+    width: 142px;
     top: 102px;
     left: 5px;
     height: 92px;
@@ -319,20 +315,18 @@ position: absolute;
     line-height: 1;
     text-align: justify;
     overflow: auto;
-    font-weight: 600;
-    }
+    font-weight: 600}
     
     .thor2e1:after{content: '';
     position: absolute;
     bottom: 0;
     left: 9px;
     height: 1px;
-    width: 142px;
-    background: #3a3a3a;
-}
+    width: 130px;
+    background: #3a3a3a}
     
-     .thor2f{    display: inline-flex;
-    width: 195px;
+     .thor2f{display:inline-flex;
+    width: 180px;
     height: 138px;
     float: left;
     margin-top: 5px;
@@ -351,13 +345,11 @@ position: absolute;
     text-align: center;
     display: block;
     line-height: 0.8;
-    letter-spacing: 2px;
-
-    }
+    letter-spacing: 2px}
     
     .thor2f2{
     position: absolute;
-    width: 187px;
+    width: 170px;
     top: 51px;
     left: 5px;
     height: 81px;
@@ -366,8 +358,7 @@ position: absolute;
     line-height: 1;
     text-align: justify;
     overflow: auto;
-    font-weight: 600;
-    }
+    font-weight: 600}
     
     .thor2f1:after{content: '';
     position: absolute;
@@ -375,12 +366,11 @@ position: absolute;
     left: 9px;
     height: 1px;
     width: 124px;
-    background: #3a3a3a;
-}    
+    background: #3a3a3a}    
     
     .thor2g{
 display: inline-flex;
-    width: 373px;
+    width: 342px;
     height: 100px;
     margin-top: 5px;
     position: relative;
@@ -421,7 +411,7 @@ display: inline-flex;
     bottom: 0;
     left: 9px;
     height: 1px;
-    width: 293px;
+    width: 265px;
     background: #3a3a3a;
 }   
     
@@ -484,7 +474,7 @@ display: block;
     min-height: 55px;
     max-height: 55px;
     max-width: 60px;
-    left: 141px;
+    left: 128px;
     top: 6px;
     font-size: 38px;
     text-align: center;
