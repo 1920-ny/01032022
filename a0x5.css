@@ -1,6 +1,5 @@
-/***toolb***/
 .toobr{opacity:0;pointer-events: none;background:rgba(40,40,40, 0.9);-webkit-backdrop-filter:blur(10px);backdrop-filter: blur(10px);width:300px;position: fixed;top:0;right: -300px;z-index: 100;height: 100%;transition: all 0.5s ease-out;border-left: solid 1px #3c3c3c;}
- span.toobrlink{position: fixed;top:0;right: 75px;z-index: 9999999;}
+span.toobrlink{position: fixed;top:0;right: 75px;z-index: 9999999;}
 
 input#toobrlink:checked ~ .toobr{opacity: 1;pointer-events: all;right:0;}    
 input#toobrlink{height:0;width:0;position: fixed;right: 60px;bottom: 101px;}
@@ -29,120 +28,40 @@ ul#notif_list div.contentText.ellipsis{position:relative;display: block;padding-
 ul#notif_list div.contentText.ellipsis:after{content:'';position: absolute;bottom: -5px;left: 0;background: linear-gradient(0.25turn,rgba(0,0,0,0),#8d7143,#8d7143,rgba(0,0,0,0));height: 1px;width: 100%}
 ul#notif_list div.contentText.ellipsis a{width: 100%;display: block;font-family: 'Jost';text-transform: uppercase;font-size: 10px;letter-spacing: 2px}
 #notif_list{margin-top:10px}     
-
 .labnot2{position: absolute;width: 35px;height: 35px;top: 626px;left: 132px}     
 .labnot2:after{content: '\e964';font-family: cappuccicons;font-size: 28px;position: relative;left:0;top:0}
 .see_all{display:none}
-.labnot3{position: absolute;width: 200px;top: 304px;left: 64px;font-family: 'Josefin Sans';color: white;letter-spacing: 2px}    
-     
-#fa_menulist li.child1{
-    position: absolute;
-    top: 10px;
-    left: 12px;} 
+.labnot3{position: absolute;width: 200px;top: 304px;left: 64px;font-family: 'Josefin Sans';color: white;letter-spacing: 2px}        
 
-#fa_menulist li.child1 a{width: 35px;
-    height: 35px;color:transparent!important;
-    display: inline-block;font-size:0;}
+#fa_menulist li.child1{position:absolute;top:10px;left:12px} 
+#fa_menulist li.child1 a{width: 35px;height: 35px;color:transparent!important;display: inline-block;font-size:0}
+#fa_menulist li.child1 a:after, #fa_menulist li.child2 a:after,#fa_menulist li.child4 a:after, #fa_menulist li.child5 a:after, #fa_menulist li.child6 a:after,  #fa_menulist li.child7 a:after,  #fa_menulist li.child8 a:after{position: absolute;top: 10px;left: 3px;font-size: 28px;color: #af9267;font-family: 'cappuccicons';text-shadow: 1px 1px 1px #000}
+#fa_menulist li.child1 a:after{content:'\eb22'}
+#fa_menulist li.child2 a:after{content:'\ebe0'}
+#fa_menulist li.child4 a:after{content:'\ebae'}
+#fa_menulist li.child5 a:after{content:'\ebde'}
+#fa_menulist li.child6 a:after{content:'\ebcb'}
+#fa_menulist li.child7 a:after{content:'\ebec'}
+#fa_menulist li.child8 a:after{content:'\eb96'}
+#fa_menulist li.child2{position:absolute;top:10px;left:66px} 
+#fa_menulist li.child2 a{width:35px;height:35px;color:transparent!important;display:inline-block;font-size:0}
+#fa_menulist li.child4{position:absolute;top:10px;left:124px} 
+#fa_menulist li.child4 a{width:35px;height:35px;color:transparent!important;display:inline-block;font-size:0}
+#fa_menulist li.child5{position:absolute;top:10px;left:178px} 
+#fa_menulist li.child5 a{width:35px;height:35px;color:transparent!important;display:inline-block;font-size:0}
+#fa_menulist li.child6{position:absolute;top:10px;left:230px} 
+#fa_menulist li.child6 a{width:35px;height:35px;color:transparent!important;display:inline-block;font-size:0}
+#fa_menulist li.child7{position:absolute;top:60px;left:77px} 
+#fa_menulist li.child7 a{width:35px;height:35px;color:transparent!important;display:inline-block;font-size:0}
+#fa_menulist li.child8{position:absolute;top:60px;left:144px} 
+#fa_menulist li.child8 a{width:35px;height:35px;color:transparent!important;display: inline-block;font-size:0}
 
-#fa_menulist li.child1 a:after, #fa_menulist li.child2 a:after,#fa_menulist li.child4 a:after, #fa_menulist li.child5 a:after, #fa_menulist li.child6 a:after,  #fa_menulist li.child7 a:after,  #fa_menulist li.child8 a:after{
-    position: absolute;
-    top: 10px;
-    left: 3px;
-    font-size: 28px;
-    color: #af9267;
-    font-family: 'cappuccicons';
-    text-shadow: 1px 1px 1px #000;
-}
-
-#fa_menulist li.child1 a:after{
-content: '\eb22';}
-
-#fa_menulist li.child2 a:after{
-content: '\ebe0';}
-
-#fa_menulist li.child4 a:after{
-content: '\ebae';}
-
-#fa_menulist li.child5 a:after{
-content: '\ebde';}
-
-#fa_menulist li.child6 a:after{
-content: '\ebcb';}
-
-#fa_menulist li.child7 a:after{
-content: '\ebec';}
-
-#fa_menulist li.child8 a:after{
-content: '\eb96';}
-
-#fa_menulist li.child2{
-    position: absolute;
-    top: 10px;
-    left: 66px;
-} 
-#fa_menulist li.child2 a{width: 35px;
-    height: 35px;color:transparent!important;
-    display: inline-block;font-size:0;}
-
-#fa_menulist li.child4{
-    position: absolute;
-    top:10px;
-    left: 124px;
-} 
-#fa_menulist li.child4 a{width: 35px;
-    height: 35px;color:transparent!important;
-    display: inline-block;font-size:0;}
-
-#fa_menulist li.child5{
-    position: absolute;
-    top: 10px;
-    left: 178px;
-} 
-#fa_menulist li.child5 a{width: 35px;
-    height: 35px;color:transparent!important;
-    display: inline-block;font-size:0;}
-
-#fa_menulist li.child6{
-    position: absolute;
-    top:10px;
-    left: 230px;
-} 
-#fa_menulist li.child6 a{width: 35px;
-    height: 35px;color:transparent!important;
-    display: inline-block;font-size:0;}
-
-#fa_menulist li.child7{
-    position: absolute;
-    top: 60px;
-    left: 77px;
-} 
-#fa_menulist li.child7 a{width: 35px;
-    height: 35px;color:transparent!important;
-    display: inline-block;font-size:0;}
-
-#fa_menulist li.child8{
-    position: absolute;
-    top: 60px;
-    left: 144px;
-} 
-#fa_menulist li.child8 a{width: 35px;
-    height: 35px;color:transparent!important;
-    display: inline-block;font-size:0;}
-
-     
-     /**** botones ****/
-     .button, .button1, .button2, input.button, input.button1, input.button2, button.bbcode, #submit_button, #profile-advanced-button, .liteoption, #login_popup_buttons, #login_popup_buttons input, .button.button2, .button2, #button, .fontbutton, a.button1.cgu-buttons, a.button1, a.button2.cgu-buttons, a.button2{
-     margin-bottom:1px;height:27px;padding-left:10px!important;padding-right:10px!important;background: var(--clr2);border:solid 2px var(--clr2);color: #171717!important;font-family: Open sans;font-size: 10px;font-weight:700!important;text-transform:uppercase;letter-spacing: 2px;display: inline-block;margin-right: 20px;-webkit-transition:all 0.5s ease-out;-o-transition:all 0.5s ease-out;-moz-transition:all 0.5s ease-out;-ms-transition:all 0.5s ease-out;transition:all 0.5s ease-out;}
-.button:hover, .button1:hover, .button2:hover, input.button:hover, input.button1:hover, input.button2:hover, button.bbcode:hover, #submit_button:hover, #profile-advanced-button:hover, #login_popup_buttons:hover, #login_popup_buttons input:hover, .liteoption:hover, .button.button2:hover, .button2:hover, #button:hover, .fontbutton:hover, a.button1.cgu-buttons:hover, a.button1:hover, a.button2.cgu-buttons:hover, a.button2:hover {
-     background:transparent;color: var(--clr2)!important;border:solid 2px var(--clr2);}
-
-    /*formularios*/
+.button, .button1, .button2, input.button, input.button1, input.button2, button.bbcode, #submit_button, #profile-advanced-button, .liteoption, #login_popup_buttons, #login_popup_buttons input, .button.button2, .button2, #button, .fontbutton, a.button1.cgu-buttons, a.button1, a.button2.cgu-buttons, a.button2{margin-bottom:1px;height:27px;padding-left:10px!important;padding-right:10px!important;background: var(--clr2);border:solid 2px var(--clr2);color: #171717!important;font-family: Open sans;font-size: 10px;font-weight:700!important;text-transform:uppercase;letter-spacing: 2px;display: inline-block;margin-right: 20px;-webkit-transition:all 0.5s ease-out;-o-transition:all 0.5s ease-out;-moz-transition:all 0.5s ease-out;-ms-transition:all 0.5s ease-out;transition:all 0.5s ease-out;}
+.button:hover, .button1:hover, .button2:hover, input.button:hover, input.button1:hover, input.button2:hover, button.bbcode:hover, #submit_button:hover, #profile-advanced-button:hover, #login_popup_buttons:hover, #login_popup_buttons input:hover, .liteoption:hover, .button.button2:hover, .button2:hover, #button:hover, .fontbutton:hover, a.button1.cgu-buttons:hover, a.button1:hover, a.button2.cgu-buttons:hover, a.button2:hover{background:transparent;color: var(--clr2)!important;border:solid 2px var(--clr2);}
 .inputbox {background:#191919;border:solid 1px #33465f;color:#b0b0b0;padding:1px;height:20px; font-family:montserrat;letter-spacing:1px;font-size:9px;outline:0;padding:3px;display: inline-block;}
-
 .panel .inputbox {background:#262626;border:solid 1px transparent;margin-bottom:2px;width:95%!important; font-family:Arial,Helvetica,sans-serif;font-size:12px;text-align:center;} 
      
-     /*paleta color*/
-     
+/*paleta color*/
 .colorpicker {
    width: 356px;
    height: 176px;
