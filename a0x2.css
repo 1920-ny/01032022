@@ -1784,5 +1784,5 @@ position: absolute;
 
 .tabfnal7 a {display: inline-block;width: 290px;height: 91px;margin-top: 4px;}
 
-.tabfnal8{border-left: solid 1px grey;position:absolute;left:40px;top:6px;height: 20px;text-transform: uppercase;font-family: 'Jost'!important;font-size: 15px;letter-spacing: 1px;width: 700px;}
+.tabfnal8{border-left: solid 1px grey;position:absolute;left:40px;top:6px;height: 20px;text-transform: uppercase;font-family: 'Jost'!important;font-size:12px;letter-spacing: 1px;width:700px;padding-top: 3px;}
 .tabfnal8:before{content:'\eb5c';position: absolute;left: -28px;font-family: 'cappuccicons';font-size: 20px;top: -6px;}
