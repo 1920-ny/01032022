@@ -14,37 +14,37 @@ input#toobrlink[type="checkbox"]:checked~label{transform:rotate(90deg);border:no
      
 div#fa_usermenu tbody tr{margin-right:20px;display:inline-block}
 #fa_usermenu tbody{width:278px;height:25px;display: block;margin-top:-66px;font-family:'Jost';font-size: 16px;letter-spacing: 1px;color: #fcaa39;text-shadow: 1px 1px 1px #000;margin-left: 5px}
-.labnotte{position: relative;width: 15px;height: 15px;margin-right:10px}
-.labnotte:after{content: '\ebde';font-family: cappuccicons;font-size:14px;position:relative;left:-8px}
-.labnotti{position: relative; width:15px;height: 15px;margin-right:10px}
-.labnotti:after{content: '\eabb';font-family: cappuccicons;font-size:14px;position:absolute;left:0}
-.rtim{color: #ab8c59;right: -60px;display: block;width:170px;text-shadow:1px 1px 1px rgb(0 0 0);font-family:'Jost';font-size: 14px;top: 5px;letter-spacing: 1px;position: absolute}
+.labnotte{position:relative;width: 15px;height: 15px;margin-right:10px}
+.labnotte:after{content:'\ebde';font-family:cappuccicons;font-size:14px;position:relative;left:-8px}
+.labnotti{position:relative;width:15px;height: 15px;margin-right:10px}
+.labnotti:after{content:'\eabb';font-family:cappuccicons;font-size:14px;position:absolute;left:0}
+.rtim{color: #ab8c59;right: -60px;display:block;width:170px;text-shadow:1px 1px 1px rgb(0 0 0);font-family:'Jost';font-size: 14px;top: 5px;letter-spacing: 1px;position: absolute}
 
 ul.pmlist dt {padding-left: 45px;display:block;border:solid 2px black;width:800px;height: auto}
-.neim a{display: inline-block;font-family:'Josefin Sans';text-transform:uppercase;letter-spacing:1px;font-size:10px;margin-right:10px;margin-left:10px}
-.neim a:before{ content: '\ea87';position: relative;left:-7px;top:2px;width:15px;height: 15px;display: inline-block;text-align:center;font-family:'cappuccicons';font-size: 12px}     
+.neim a{display:inline-block;font-family:'Josefin Sans';text-transform:uppercase;letter-spacing:1px;font-size:10px;margin-right:10px;margin-left:10px}
+.neim a:before{content:'\ea87';position: relative;left:-7px;top:2px;width:15px;height: 15px;display:inline-block;text-align:center;font-family:'cappuccicons';font-size: 12px}     
 
 ul#notif_list div.contentText.ellipsis{position:relative;display:block;padding-bottom:10px;text-align:center;font-family:'Work Sans';text-transform:uppercase;font-weight: bold;letter-spacing:1px;color:#9b9b9b}
 ul#notif_list div.contentText.ellipsis:after{content:'';position:absolute;bottom:-5px;left:0;background:linear-gradient(0.25turn,rgba(0,0,0,0),#8d7143,#8d7143,rgba(0,0,0,0));height: 1px;width: 100%}
-ul#notif_list div.contentText.ellipsis a{width: 100%;display:block;font-family:'Jost';text-transform:uppercase;font-size: 10px;letter-spacing:2px;color:#edac4c}
-#notif_list{margin-top:10px}.labnot2{position: absolute;width:35px;height:35px;top: 626px;left:132px}     
+ul#notif_list div.contentText.ellipsis a{width: 100%;display:block;font-family:'Jost';text-transform:uppercase;font-size:10px;letter-spacing:2px;color:#edac4c}
+#notif_list{margin-top:10px}.labnot2{position: absolute;width:35px;height:35px;top: 626px;left:132px;color:#edac4c}     
 .labnot2:after{content:'\e964';font-family:cappuccicons;font-size: 28px;position:relative;left:0;top:0}
 .see_all{display:none}.labnot3{position:absolute;width:200px;top:304px;left: 64px;font-family:'Josefin Sans';color: white;letter-spacing: 2px}        
 
-#fa_menulist li.child1{position:absolute;top:10px;left:12px} 
+#fa_menulist li.child1{position:absolute;top:10px;left:22px} 
 #fa_menulist li.child1 a{width: 35px;height: 35px;color:transparent!important;display: inline-block;font-size:0}
 #fa_menulist li.child1 a:after, #fa_menulist li.child2 a:after,#fa_menulist li.child4 a:after, #fa_menulist li.child5 a:after, #fa_menulist li.child6 a:after,  #fa_menulist li.child7 a:after,  #fa_menulist li.child8 a:after{position: absolute;top: 10px;left: 3px;font-size: 28px;color:#edac4c;font-family: 'cappuccicons';text-shadow: 1px 1px 1px #000}
 #fa_menulist li.child1 a:after{content:'\eb22'}#fa_menulist li.child2 a:after{content:'\ebe0'}#fa_menulist li.child4 a:after{content:'\ebae'}#fa_menulist li.child5 a:after{content:'\ebde'}#fa_menulist li.child6 a:after{content:'\ebcb'}#fa_menulist li.child7 a:after{content:'\ea89'}#fa_menulist li.child8 a:after{content:'\ec19'}
-#fa_menulist li.child2{position:absolute;top:10px;left:66px} #fa_menulist li.child2 a{width:35px;height:35px;color:transparent!important;display:inline-block;font-size:0}
-#fa_menulist li.child4{position:absolute;top:10px;left:124px} 
+#fa_menulist li.child2{position:absolute;top:10px;left:76px} #fa_menulist li.child2 a{width:35px;height:35px;color:transparent!important;display:inline-block;font-size:0}
+#fa_menulist li.child4{position:absolute;top:10px;left:134px} 
 #fa_menulist li.child4 a{width:35px;height:35px;color:transparent!important;display:inline-block;font-size:0}
-#fa_menulist li.child5{position:absolute;top:10px;left:178px} 
+#fa_menulist li.child5{position:absolute;top:10px;left:188px} 
 #fa_menulist li.child5 a{width:35px;height:35px;color:transparent!important;display:inline-block;font-size:0}
-#fa_menulist li.child6{position:absolute;top:10px;left:230px} 
+#fa_menulist li.child6{position:absolute;top:10px;left:240px} 
 #fa_menulist li.child6 a{width:35px;height:35px;color:transparent!important;display:inline-block;font-size:0}
-#fa_menulist li.child7{position:absolute;top:60px;left:77px} 
+#fa_menulist li.child7{position:absolute;top:60px;left:87px} 
 #fa_menulist li.child7 a{width:35px;height:35px;color:transparent!important;display:inline-block;font-size:0}
-#fa_menulist li.child8{position:absolute;top:60px;left:144px} 
+#fa_menulist li.child8{position:absolute;top:60px;left:154px} 
 #fa_menulist li.child8 a{width:35px;height:35px;color:transparent!important;display: inline-block;font-size:0}
 
 .button, .button1, .button2, input.button, input.button1, input.button2, button.bbcode, #submit_button, #profile-advanced-button, .liteoption, #login_popup_buttons, #login_popup_buttons input, .button.button2, .button2, #button, .fontbutton, a.button1.cgu-buttons, a.button1, a.button2.cgu-buttons, a.button2{margin-bottom:1px;height:27px;padding-left:10px!important;padding-right:10px!important;background: var(--clr2);border:solid 2px var(--clr2);color: #171717!important;font-family: Open sans;font-size: 10px;font-weight:700!important;text-transform:uppercase;letter-spacing: 2px;display: inline-block;margin-right: 20px;-webkit-transition:all 0.5s ease-out;-o-transition:all 0.5s ease-out;-moz-transition:all 0.5s ease-out;-ms-transition:all 0.5s ease-out;transition:all 0.5s ease-out;}
