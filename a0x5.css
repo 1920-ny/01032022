@@ -1,19 +1,19 @@
 .toobr{opacity:0;pointer-events: none;background:rgba(40,40,40, 0.9);-webkit-backdrop-filter:blur(10px);backdrop-filter: blur(10px);width:300px;position: fixed;top:0;right: -300px;z-index: 100;height: 100%;transition: all 0.5s ease-out;border-left: solid 1px #3c3c3c;}
 span.toobrlink{position: fixed;top:0;right: 75px;z-index: 9999999;}
 
-input#toobrlink:checked ~ .toobr{opacity: 1;pointer-events: all;right:0;}    
-input#toobrlink{height:0;width:0;position: fixed;right: 60px;bottom: 101px;}
-input#toobrlink[type="checkbox"]:checked~label{transform: rotate(90deg);border:none!important}
+input#toobrlink:checked ~ .toobr{opacity:1;pointer-events:all;right:0;}    
+input#toobrlink{height:0;width:0;position:fixed;right:60px;bottom: 101px;}
+input#toobrlink[type="checkbox"]:checked~label{transform:rotate(90deg);border:none!important}
     
-.toobrlink label{position: fixed;right: 70px;bottom: 87px;z-index: 999;cursor: pointer;display: block;width:26px;transform: rotate(0deg);height: 20px;transition: all 0.5s ease-out}
-.toobrlink label:after{position: absolute;content: '\e9e5';font-family: cappuccicons;font-size: 30px;height:30px;text-shadow: 1px 1px 1px #000;width: 30px;color: #fcaa39;pointer-events: none;top: -5px;left: 0}
-.labnot{position: fixed;bottom: 15px;color: #fcaa39;right: 71px;text-shadow: 1px 1px 1px #000;font-family:'Jost';font-size: 16px;z-index: 999;font-weight: bold;}
-.labnot1{height: 23px;width: 280px;color: #dbdbdb;display: block;font-family: 'Jost';font-size: 16px;text-transform: uppercase;letter-spacing: 2px;margin-top: 85px;text-shadow: 1px 1px 1px #000;position: relative}
-.labnot1:before{content: 'Welcome back!';position: absolute;top: -13px;left: 85px;color: #ff9b04;font-size: 10px}   
-.labnot1:after{content: '';position: absolute;top: -20px;left: 0;background: linear-gradient(0.25turn,rgba(0,0,0,0),#8d7143,#8d7143,rgba(0,0,0,0));height: 1px;width: 100%}       
+.toobrlink label{position:fixed;right: 70px;bottom:87px;z-index:999;cursor:pointer;display:block;width:26px;transform: rotate(0deg);height: 20px;transition: all 0.5s ease-out}
+.toobrlink label:after{position:absolute;content:'\e9e5';font-family:cappuccicons;font-size:30px;height:30px;text-shadow: 1px 1px 1px #000;width: 30px;color: #fcaa39;pointer-events: none;top: -5px;left: 0}
+.labnot{position:fixed;bottom:15px;color:#fcaa39;right:71px;text-shadow:1px 1px 1px #000;font-family:'Jost';font-size: 16px;z-index: 999;font-weight: bold;}
+.labnot1{height:23px;width:280px;color:#dbdbdb;display:block;font-family:'Jost';font-size: 16px;text-transform: uppercase;letter-spacing: 2px;margin-top: 85px;text-shadow: 1px 1px 1px #000;position: relative}
+.labnot1:before{content:'Welcome back!';position:absolute;top:-13px;left:85px;color: #ff9b04;font-size: 10px}   
+.labnot1:after{content:'';position:absolute;top:-20px;left: 0;background:linear-gradient(0.25turn,rgba(0,0,0,0),#8d7143,#8d7143,rgba(0,0,0,0));height: 1px;width: 100%}       
      
 div#fa_usermenu tbody tr{margin-right:20px;display:inline-block}
-#fa_usermenu tbody{width:278px;height:25px;display: block;margin-top: -66px;font-family:'Jost';font-size: 16px;letter-spacing: 1px;color: #fcaa39;text-shadow: 1px 1px 1px #000;margin-left: 5px}
+#fa_usermenu tbody{width:278px;height:25px;display: block;margin-top:-66px;font-family:'Jost';font-size: 16px;letter-spacing: 1px;color: #fcaa39;text-shadow: 1px 1px 1px #000;margin-left: 5px}
 .labnotte{position: relative;width: 15px;height: 15px;margin-right:10px}
 .labnotte:after{content: '\ebde';font-family: cappuccicons;font-size:14px;position:relative;left:-8px}
 .labnotti{position: relative; width:15px;height: 15px;margin-right:10px}
@@ -24,7 +24,7 @@ ul.pmlist dt {padding-left: 45px;display:block;border:solid 2px black;width:800p
 .neim a{display: inline-block;font-family:'Josefin Sans';text-transform:uppercase;letter-spacing:1px;font-size:10px;margin-right:10px;margin-left:10px}
 .neim a:before{ content: '\ea87';position: relative;left:-7px;top:2px;width:15px;height: 15px;display: inline-block;text-align: center;font-family: 'cappuccicons';font-size: 12px}     
 
-ul#notif_list div.contentText.ellipsis{position:relative;display: block;padding-bottom: 10px;text-align:center;font-family:'Work Sans';text-transform: uppercase;font-weight: bold;letter-spacing: 1px}
+ul#notif_list div.contentText.ellipsis{position:relative;display: block;padding-bottom: 10px;text-align:center;font-family:'Work Sans';text-transform: uppercase;font-weight: bold;letter-spacing:1px;color:#9b9b9b}
 ul#notif_list div.contentText.ellipsis:after{content:'';position: absolute;bottom: -5px;left: 0;background: linear-gradient(0.25turn,rgba(0,0,0,0),#8d7143,#8d7143,rgba(0,0,0,0));height: 1px;width: 100%}
 ul#notif_list div.contentText.ellipsis a{width: 100%;display: block;font-family: 'Jost';text-transform: uppercase;font-size: 10px;letter-spacing: 2px}
 #notif_list{margin-top:10px}     
@@ -35,16 +35,9 @@ ul#notif_list div.contentText.ellipsis a{width: 100%;display: block;font-family:
 
 #fa_menulist li.child1{position:absolute;top:10px;left:12px} 
 #fa_menulist li.child1 a{width: 35px;height: 35px;color:transparent!important;display: inline-block;font-size:0}
-#fa_menulist li.child1 a:after, #fa_menulist li.child2 a:after,#fa_menulist li.child4 a:after, #fa_menulist li.child5 a:after, #fa_menulist li.child6 a:after,  #fa_menulist li.child7 a:after,  #fa_menulist li.child8 a:after{position: absolute;top: 10px;left: 3px;font-size: 28px;color: #af9267;font-family: 'cappuccicons';text-shadow: 1px 1px 1px #000}
-#fa_menulist li.child1 a:after{content:'\eb22'}
-#fa_menulist li.child2 a:after{content:'\ebe0'}
-#fa_menulist li.child4 a:after{content:'\ebae'}
-#fa_menulist li.child5 a:after{content:'\ebde'}
-#fa_menulist li.child6 a:after{content:'\ebcb'}
-#fa_menulist li.child7 a:after{content:'\ebec'}
-#fa_menulist li.child8 a:after{content:'\eb96'}
-#fa_menulist li.child2{position:absolute;top:10px;left:66px} 
-#fa_menulist li.child2 a{width:35px;height:35px;color:transparent!important;display:inline-block;font-size:0}
+#fa_menulist li.child1 a:after, #fa_menulist li.child2 a:after,#fa_menulist li.child4 a:after, #fa_menulist li.child5 a:after, #fa_menulist li.child6 a:after,  #fa_menulist li.child7 a:after,  #fa_menulist li.child8 a:after{position: absolute;top: 10px;left: 3px;font-size: 28px;color:#edac4c;font-family: 'cappuccicons';text-shadow: 1px 1px 1px #000}
+#fa_menulist li.child1 a:after{content:'\eb22'}#fa_menulist li.child2 a:after{content:'\ebe0'}#fa_menulist li.child4 a:after{content:'\ebae'}#fa_menulist li.child5 a:after{content:'\ebde'}#fa_menulist li.child6 a:after{content:'\ebcb'}#fa_menulist li.child7 a:after{content:'\ea89'}#fa_menulist li.child8 a:after{content:'\ec19'}
+#fa_menulist li.child2{position:absolute;top:10px;left:66px} #fa_menulist li.child2 a{width:35px;height:35px;color:transparent!important;display:inline-block;font-size:0}
 #fa_menulist li.child4{position:absolute;top:10px;left:124px} 
 #fa_menulist li.child4 a{width:35px;height:35px;color:transparent!important;display:inline-block;font-size:0}
 #fa_menulist li.child5{position:absolute;top:10px;left:178px} 
