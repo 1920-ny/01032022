@@ -1,0 +1,154 @@
+#apa{position:fixed;top:0;left:0;display:block;height:50px;width:350px}
+
+.jes1 {
+  background-color: #141414;
+  width: 50px;
+  height: 50px;position: absolute;top: 0;left:0;
+  display: block;cursor:crosshair;
+}
+    
+.jes1:before, .jes2:before, .jes3:before, .jes4:before, .jes5:before, .jes6:before, .jes7:before {font-family: cappuccicons;
+    font-size: 28px;
+    position: absolute;
+    left: 10px;pointer-events: none;
+    top: 10px;
+    width: 50px;
+    height: 50px;
+    text-shadow: 1px 1px 1px #000;
+    color: white;
+}    
+   
+.jes1:before{content:'\e91b'}  
+.jes2:before{content:'\e9ab'}    
+.jes3:before{content:'\ebab'} 
+.jes4:before{content:'\ea9e'} 
+.jes5:before{content:'\ea3d'} 
+.jes6:before{content:'\ea50'}     
+.jes7:before{content:'\e972'} 
+
+    
+.jes1a {transition: all 0.5s ease-out;
+  background: rgba(40,40,40, 0.9);
+  width: 350px;-webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+  height: 600px;position: absolute;top:50px;left:-300px;
+  opacity: 0;pointer-events: none;
+
+}
+.jes1:hover + .jes1a, .jes1a:hover {
+ left: 0;opacity: 1;pointer-events: all;
+}
+    
+.jes2 {
+  background-color: #1d1d1d;
+  width: 50px;
+  height: 50px;position: absolute;top: 0;left:50px;
+  display: block;cursor:crosshair;
+  
+}
+.jes2a {transition: all 0.5s ease-out;
+  background: rgba(40,40,40, 0.9);
+  width: 350px;-webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+  height: 600px;position: absolute;top:50px;left:-300px;
+  opacity: 0;pointer-events: none;
+
+}
+.jes2:hover + .jes2a, .jes2a:hover {
+ left: 0;opacity: 1;pointer-events: all;
+}
+    
+.jes3 {
+  background-color: #242424;
+  width: 50px;
+  height: 50px;position: absolute;top: 0;left:100px;
+  display: block;cursor:crosshair;
+  
+}
+.jes3a {transition: all 0.5s ease-out;
+  background: rgba(40,40,40, 0.9);
+  width: 350px;-webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+  height: 600px;position: absolute;top:50px;left:-300px;
+  opacity: 0;pointer-events: none;
+
+}
+.jes3:hover + .jes3a, .jes3a:hover {
+ left: 0;opacity: 1;pointer-events:all;
+}   
+    
+.jes4 {
+  background-color: #2d2d2d;
+  width: 50px;
+  height: 50px;position: absolute;top: 0;left:150px;
+  display: block;cursor:crosshair;
+  
+}
+.jes4a {transition: all 0.5s ease-out;
+  background: rgba(40,40,40, 0.9);
+  width: 350px;-webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+  height: 600px;position: absolute;top:50px;left:-300px;
+  opacity: 0;pointer-events: none;
+
+}
+.jes4:hover + .jes4a, .jes4a:hover {
+ left: 0;opacity: 1;pointer-events: all;
+}
+    
+.jes5 {
+  background-color: #424242;
+  width: 50px;
+  height: 50px;position: absolute;top: 0;left:200px;
+  display: block;cursor:crosshair;
+  
+}
+.jes5a {transition: all 0.5s ease-out;
+  background: rgba(40,40,40, 0.9);
+  width: 350px;-webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+  height: 600px;position: absolute;top:50px;left:-300px;
+  opacity: 0;pointer-events: none;
+
+}
+.jes5:hover + .jes5a, .jes5a:hover {
+ left: 0;opacity: 1;pointer-events: all;
+}  
+    
+.jes6 {
+  background-color: #5b5b5b;
+  width: 50px;
+  height: 50px;position: absolute;top: 0;left:250px;
+  display: block;cursor:crosshair;
+  
+}
+.jes6a {transition: all 0.5s ease-out;
+  background: rgba(40,40,40, 0.9);
+  width: 350px;-webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+  height: 600px;position: absolute;top:50px;left:-300px;
+  opacity: 0;pointer-events: none;
+
+}
+.jes6:hover + .jes6a, .jes6a:hover {
+ left: 0;opacity: 1;pointer-events: all;
+}   
+    
+.jes7 {
+  background-color: #5b5b5b;
+  width: 50px;
+  height: 50px;position: absolute;top: 0;left:300px;
+  display: block;cursor:crosshair;
+  
+}
+.jes7a {transition: all 0.5s ease-out;
+  background: rgba(40,40,40, 0.9);
+  width: 350px;-webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+  height: 600px;position: absolute;top:50px;left:-300px;
+  opacity: 0;pointer-events: none;
+
+}
+.jes7:hover + .jes7a, .jes7a:hover {
+ left: 0;opacity: 1;pointer-events: all;
+}     
