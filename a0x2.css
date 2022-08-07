@@ -1434,16 +1434,8 @@ position: absolute;
     font-weight: bold;}
     
     .thor1amb6:after{content:'';position:absolute;top: 25px;left: -60px; height: 1px;width: 350px;background: linear-gradient(0.25turn,rgba(0,0,0,0),#8d7143,#8d7143,rgba(0,0,0,0));}
-
     
-    .thor1amb7{position: absolute;
-    width: 180px;
-    height: 230px;
-    top: 345px;
-    left: 20px; 
-    }
-    
-    .thor1amb7:after{content: '\ecfe';
+   .thor1amb1:after{content: '\ecfe';
     position: absolute;
     top: -1px;
     left: 272px;
@@ -1468,33 +1460,8 @@ position: absolute;
     letter-spacing: 2px;
     color: #af875e;
     overflow: auto;
-    line-height: 1.5; 
-    }
-    
-    .thor1amb8a{
-position: absolute;
-    width: 100%;
-    bottom: -88px;
-    font-family: 'Jost';
-    font-size: 18px;
-    line-height: 1.2;
-    text-align: center;
-    left: 0;
-    text-shadow: 1px 1px 1px #000;
-    letter-spacing: 1px;
-    height: 50px;     
-    }
-    
-    .thor1amb8a:before{content: 'SEPTIEMBRE: USUARIO DESTACADO';
-    position: absolute;
-    top: -28px;
-    left: 6px;
-    color: white;
-    font-size: 10px;
-    letter-spacing: 3px;}
+    line-height: 1.5}
   
-  
-  /***tablon centro***/
 .tabfnal {
     background-color: var(--clr1);
     height: 600px;
