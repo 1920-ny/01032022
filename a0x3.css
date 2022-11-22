@@ -2,6 +2,6 @@
 img.valkiran, .frass8{-webkit-mask-image: linear-gradient(to top, transparent 2%, black 42%)!important}
 .prfb0, .prfb1{-webkit-mask-image: linear-gradient(to top, transparent 2%, black, transparent 95%)!important}
 .postenv .row2 div.inner:after, .postenv .row1 div.inner:after{height:295px!important}
-.postenv .row2 div.inner:after, .postenv .row1 div.inner:after{content: '';pointer-events: none;position:absolute;top:278px;width:850px;z-index: -1;background:#dbd9d9}
+/* .postenv .row2 div.inner:after, .postenv .row1 div.inner:after{content: '';pointer-events: none;position:absolute;top:278px;width:850px;z-index: -1;background:#dbd9d9} */
 .postenv .row2 div.inner:after{left:0px}
 .postenv .row1 div.inner:after{right:0px}
