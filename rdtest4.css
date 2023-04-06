@@ -1,0 +1,604 @@
+/**absolute**/
+div.forabg li.header:after,.digi1:after,ul.topiclist dt, ul.topiclist dd.dterm,a.forumtitle,dd.topics,dd.posts,dd.lastpost,.clprimer a.forumtitle:before,li.row.clprimer:after,li.row.clprimer dd.posts:before,li.row.clprimer dd.topics:before,li.row.cldudas:after,.cldudas a.forumtitle,.cldudas a.forumtitle:before,li.row.cldudas dd.posts:before,li.row.cldudas dd.topics:before,li.row.cltablón:after,.cltablón a.forumtitle,.cltablón a.forumtitle:before,li.row.cltablón .bicar1:before,li.row.cltablón .bicar1:after,li.row.cltablón dd.posts:before,li.row.cltablón dd.topics:before,li.row.clbienve:after,li.row.clbienve dd.posts:before,li.row.clbienve dd.topics:before,li.row.clsolici:after,.clsolici a.forumtitle,.clsolici a.forumtitle:before,li.row.clsolici dd.posts:before,li.row.clsolici dd.topics:before,li.row.clregist:after,.clregist a.forumtitle,.clregist a.forumtitle:before,li.row.clregist dd.posts:before,li.row.clregist dd.topics:before,li.row.cltransa:after,.cltransa a.forumtitle,.cltransa a.forumtitle:before,li.row.cltransa dd.posts:before,li.row.cltransa dd.topics:before,li.row.clexpedi:after,li.row.clzonad:after,li.row.cladmini:after,li.row.clruleta:after,li.row.clcorres:after,li.row.clacepta:after,li.row.clcódigo:after,.clexpedi a.forumtitle,.clzonad a.forumtitle,.cladmini a.forumtitle,.clruleta a.forumtitle,.clcódigo a.forumtitle,.clexpedi a.forumtitle:before,.clzonad a.forumtitle:before,.cladmini a.forumtitle:before,.clruleta a.forumtitle:before,.clcódigo a.forumtitle:before,li.row.clexpedi .bicar1:before,li.row.clzonad .bicar1:before,li.row.cladmini .bicar1:before,li.row.clruleta .bicar1:before,li.row.clcorres .bicar1:before,li.row.clacepta .bicar1:before,li.row.clcódigo .bicar1:before,li.row.clexpedi .bicar1:after,li.row.clzonad .bicar1:after,li.row.cladmini .bicar1:after,li.row.clruleta .bicar1:after,li.row.clcorres .bicar1:after,li.row.clacepta .bicar1:after,li.row.clcódigo .bicar1:after,li.row.clexpedi dd.posts:before,li.row.clzonad dd.posts:before,li.row.cladmini dd.posts:before,li.row.clruleta dd.posts:before,li.row.clcorres dd.posts:before,li.row.clacepta dd.posts:before,li.row.clcódigo dd.posts:before,li.row.clexpedi dd.topics:before,li.row.clzonad dd.topics:before,li.row.cladmini dd.topics:before,li.row.clruleta dd.topics:before,li.row.clcorres dd.topics:before,li.row.clacepta dd.topics:before,li.row.clcódigo dd.topics:before,li.row.clbaules:after,li.row.cljuegos:after,li.row.clmesad:after,li.row.clmesad:after,li.row.clcodigo:after,li.row.cldiario:after,li.row.clperson:after,li.row.clorgani:after,.clbaules a.forumtitle,.cljuegos a.forumtitle,.clmesad a.forumtitle,.clcodigo a.forumtitle,.clorgani a.forumtitle,.clbaules a.forumtitle:before,.cljuegos a.forumtitle:before,.clmesad a.forumtitle:before,.clcodigo a.forumtitle:before,.clorgani a.forumtitle:before,li.row.clbaules dd.posts:before,li.row.cljuegos dd.posts:before,li.row.clmesad dd.posts:before,li.row.clcodigo dd.posts:before,li.row.cldiario dd.posts:before,li.row.clperson dd.posts:before,li.row.clorgani dd.posts:before,li.row.clbaules dd.topics:before,li.row.cljuegos dd.topics:before,li.row.clmesad dd.topics:before,li.row.clcodigo dd.topics:before,li.row.cldiario dd.topics:before,li.row.clperson dd.topics:before,li.row.clorgani dd.topics:before,li.row.clbúsque:after,li.row.clafilia:after,li.row.clprueba:after,li.row.clpapele:after,li.row.clbitáco:after,li.row.clbúsque dd.posts:before,li.row.clafilia dd.posts:before,li.row.clprueba dd.posts:before,li.row.clpapele dd.posts:before,li.row.clbitáco dd.posts:before,.clbúsque a.forumtitle,.clafilia a.forumtitle,.clprueba a.forumtitle,.clpapele a.forumtitle,.clbitáco a.forumtitle,.clbúsque a.forumtitle:before,.clafilia a.forumtitle:before,.clprueba a.forumtitle:before,.clpapele a.forumtitle:before,.clbitáco a.forumtitle:before,li.row.clbúsque dd.topics:before,li.row.clafilia dd.topics:before,li.row.clprueba dd.topics:before,li.row.clpapele dd.topics:before,li.row.clbitáco dd.topics:before,li.row.clclubes:after,.clclubes a.forumtitle,.clclubes a.forumtitle:before,li.row.clclubes dd.posts:before,li.row.clclubes dd.topics:before,li.row.clmision:after,.clmision a.forumtitle,.clmision a.forumtitle:before,li.row.clmision dd.posts:before,li.row.clmision dd.topics:before,li.row.clcasino:after,.clcasino a.forumtitle,.clcasino a.forumtitle:before,li.row.clcasino dd.posts:before,li.row.clcasino dd.topics:before,li.row.clawards:after,.clawards a.forumtitle,.clawards a.forumtitle:before,li.row.clawards dd.posts:before,li.row.clawards dd.topics:before,.bicar,.bicar0,.bicar1,.b-cr2:before,li.row.clprimer .bicar1:before,li.row.clprimer .bicar1:after,li.row.cllasaf:after,li.row.clotros:after,li.row.clnorte:after,li.row.clupper:after,li.row.clclubd:after,li.row.clmidtow:after,li.row.cldownto:after,li.row.cluptown:after,li.row.clriverd:after,li.row.clmalba:after,li.row.clelpue:after,li.row.clforest:after,li.row.clredho:after,li.row.clcanars:after,li.row.clbright:after,li.row.clstgeo:after,li.row.clrichmo:after,li.row.clligtho:after,.cllasaf a.forumtitle,.clotros a.forumtitle,.clnorte a.forumtitle,.clupper a.forumtitle,.clclubd a.forumtitle,.clmidtow a.forumtitle,.cldownto a.forumtitle,.cluptown a.forumtitle,.clriverd a.forumtitle,.clmalba a.forumtitle,.clelpue a.forumtitle,.clforest a.forumtitle,.clredho a.forumtitle,.clcanars a.forumtitle,.clbright a.forumtitle,.clstgeo a.forumtitle,.clrichmo a.forumtitle,.clligtho a.forumtitle,li.row.cllasaf dd.posts:before,li.row.clotros dd.posts:before,li.row.clnorte dd.posts:before,li.row.clupper dd.posts:before,li.row.clclubd dd.posts:before,li.row.clmidtow dd.posts:before,li.row.cldownto dd.posts:before,li.row.cluptown dd.posts:before,li.row.clriverd dd.posts:before,li.row.clmalba dd.posts:before,li.row.clelpue dd.posts:before,li.row.clforest dd.posts:before,li.row.clredho dd.posts:before,li.row.clcanars dd.posts:before,li.row.clbright dd.posts:before,li.row.clstgeo dd.posts:before,li.row.clrichmo dd.posts:before,li.row.clligtho dd.posts:before,li.row.cllasaf dd.topics:before,li.row.clotros dd.topics:before,li.row.clnorte dd.topics:before,li.row.clupper dd.topics:before,li.row.clclubd dd.topics:before,li.row.clmidtow dd.topics:before,li.row.cldownto dd.topics:before,li.row.cluptown dd.topics:before,li.row.clriverd dd.topics:before,li.row.clmalba dd.topics:before,li.row.clelpue dd.topics:before,li.row.clforest dd.topics:before,li.row.clredho dd.topics:before,li.row.clcanars dd.topics:before,li.row.clbright dd.topics:before,li.row.clstgeo dd.topics:before,li.row.clrichmo dd.topics:before,li.row.clligtho dd.topics:before,.cltheti a.forumtitle{position: absolute;}
+
+dl.icon,.digi1{position: absolute!important;}
+
+.clprimer a.forumtitle:before,li.row.clprimer dd.posts:before,li.row.clprimer dd.topics:before,.cldudas a.forumtitle:before,li.row.cldudas dd.posts:before,li.row.cldudas dd.topics:before,.cltablón a.forumtitle:before,li.row.cltablón dd.posts:before,li.row.cltablón dd.topics:before,li.row.clbienve dd.posts:before,.clsolici a.forumtitle:before,li.row.clbienve dd.topics:before,li.row.clsolici dd.posts:before,li.row.clsolici dd.topics:before,.clregist a.forumtitle:before,li.row.clregist dd.posts:before,li.row.clregist dd.topics:before,.cltransa a.forumtitle:before,li.row.cltransa dd.posts:before,li.row.cltransa dd.topics:before,.clexpedi a.forumtitle:before,.clzonad a.forumtitle:before,.cladmini a.forumtitle:before,.clruleta a.forumtitle:before,.clcorres a.forumtitle:before,.clcódigo a.forumtitle:before,li.row.clexpedi dd.posts:before,li.row.clzonad dd.posts:before,li.row.cladmini dd.posts:before,li.row.clruleta dd.posts:before,li.row.clcorres dd.posts:before,li.row.clcódigo dd.posts:before,li.row.clexpedi dd.topics:before,li.row.clzonad dd.topics:before,li.row.cladmini dd.topics:before,li.row.clruleta dd.topics:before,li.row.clcorres dd.topics:before,li.row.clcódigo dd.topics:before,.clbaules a.forumtitle:before,.cljuegos a.forumtitle:before,.clmesad a.forumtitle:before,.clcodigo a.forumtitle:before,.clorgani a.forumtitle:before,li.row.clbaules dd.posts:before,li.row.cljuegos dd.posts:before,li.row.clmesad dd.posts:before,li.row.clcodigo dd.posts:before,li.row.cldiario dd.posts:before,li.row.clperson dd.posts:before,li.row.clorgani dd.posts:before,li.row.clbaules dd.topics:before,li.row.cljuegos dd.topics:before,li.row.clmesad dd.topics:before,li.row.clcodigo dd.topics:before,li.row.cldiario dd.topics:before,li.row.clperson dd.topics:before,li.row.clorgani dd.topics:before,.clbúsque a.forumtitle:before,.clafilia a.forumtitle:before,.clprueba a.forumtitle:before,.clpapele a.forumtitle:before,.clbitáco a.forumtitle:before,li.row.clbúsque dd.posts:before,li.row.clafilia dd.posts:before,li.row.clprueba dd.posts:before,li.row.clpapele dd.posts:before,li.row.clbitáco dd.posts:before,li.row.clbúsque dd.topics:before,li.row.clafilia dd.topics:before,li.row.clprueba dd.topics:before,li.row.clpapele dd.topics:before,li.row.clbitáco dd.topics:before,.clclubes a.forumtitle:before,li.row.clclubes dd.posts:before,li.row.clclubes dd.topics:before,.clmision a.forumtitle:before,li.row.clmision dd.posts:before,li.row.clmision dd.topics:before,.clcasino a.forumtitle:before,li.row.clcasino dd.posts:before,li.row.clcasino dd.topics:before,.clawards a.forumtitle:before,li.row.clawards dd.posts:before,li.row.clawards dd.topics:before,.b-cr2:before,li.row.cllasaf dd.posts:before,li.row.clotros dd.posts:before,li.row.clnorte dd.posts:before,li.row.clupper dd.posts:before,li.row.clclubd dd.posts:before,li.row.clmidtow dd.posts:before,li.row.cldownto dd.posts:before,li.row.cluptown dd.posts:before,li.row.clriverd dd.posts:before,li.row.clmalba dd.posts:before,li.row.clelpue dd.posts:before,li.row.clforest dd.posts:before,li.row.clredho dd.posts:before,li.row.clcanars dd.posts:before,li.row.clbright dd.posts:before,li.row.clstgeo dd.posts:before,li.row.clrichmo dd.posts:before,li.row.clligtho dd.posts:before,li.row.cllasaf dd.topics:before,li.row.clotros dd.topics:before,li.row.clnorte dd.topics:before,li.row.clupper dd.topics:before,li.row.clclubd dd.topics:before,li.row.clmidtow dd.topics:before,li.row.cldownto dd.topics:before,li.row.cluptown dd.topics:before,li.row.clriverd dd.topics:before,li.row.clmalba dd.topics:before,li.row.clelpue dd.topics:before,li.row.clforest dd.topics:before,li.row.clredho dd.topics:before,li.row.clcanars dd.topics:before,li.row.clbright dd.topics:before,li.row.clstgeo dd.topics:before,li.row.clrichmo dd.topics:before,li.row.clligtho dd.topics:before{font-family: cappuccicons;}
+
+div.forabg h2,.digi,.digi1,li.row,li.row.clprimer,li.row.cldudas,li.row.cldudas span.color-groups,li.row.cltablón,li.row.cltablón span.color-groups,li.row.cltablón,li.row.clbienve,li.row.clbienve span.color-groups,li.row.clsolici,li.row.clsolici span.color-groups,li.row.clregist,li.row.clregist span.color-groups,li.row.cltransa,li.row.cltransa span.color-groups,li.row.clexpedi,li.row.clzonad,li.row.cladmini,li.row.clruleta,li.row.clcorres,li.row.clcódigo,li.row.clcódigo span.color-groups,li.row.clbaules,li.row.cljuegos,li.row.clmesad,li.row.clcodigo,li.row.cldiario,li.row.clperson,li.row.clorgani,li.row.clbaules span.color-groups,li.row.cljuegos span.color-groups,li.row.clmesad span.color-groups,li.row.clcodigo span.color-groups,li.row.cldiario span.color-groups,li.row.clperson span.color-groups,li.row.clorgani span.color-groups,li.row.clbúsque,li.row.clafilia,li.row.clpapele,li.row.clbitáco,li.row.clprueba,li.row.clbúsque span.color-groups,li.row.clafilia span.color-groups,li.row.clprueba span.color-groups,li.row.clpapele span.color-groups,li.row.div.forabg h2,.digi,.digi1,li.row,li.row.clprimer,li.row.cldudas,li.row.cldudas span.color-groups,li.row.cltablón,li.row.cltablón span.color-groups,li.row.cltablón,li.row.clbienve,li.row.clbienve span.color-groups,li.row.clsolici,li.row.clsolici span.color-groups,li.row.clregist,li.row.clregist span.color-groups,li.row.cltransa,li.row.cltransa span.color-groups,li.row.clexpedi,li.row.clzonad,li.row.cladmini,li.row.clruleta,li.row.clcorres,li.row.clcódigo,li.row.clcódigo span.color-groups,li.row.clbaules,li.row.cljuegos,li.row.clmesad,li.row.clcodigo,li.row.cldiario,li.row.clperson,li.row.clorgani,li.row.clbaules span.color-groups,li.row.cljuegos span.color-groups,li.row.clmesad span.color-groups,li.row.clcodigo span.color-groups,li.row.cldiario span.color-groups,li.row.clperson span.color-groups,li.row.clorgani span.color-groups,li.row.clbúsque,li.row.clafilia,li.row.clpapele,li.row.clbitáco,li.row.clprueba,li.row.clbúsque span.color-groups,li.row.clafilia span.color-groups,li.row.clprueba span.color-groups,li.row.clpapele span.color-groups,li.row.clpapele span.color-groups,li.row.clclubes,li.row.clclubes span.color-groups,li.row.clmision,li.row.clmision span.color-groups,li.row.clcasino,li.row.clcasino span.color-groups,li.row.clawards,li.row.clupper,li.row.clclubd,li.row.clmidtow,li.row.cldownto,li.row.cluptown,li.row.clriverd,li.row.clmalba,li.row.clelpue,li.row.clforest,li.row.clredho,li.row.clcanars,li.row.clbright,li.row.clstgeo,li.row.clupt,li.row.clrichmo,li.row.clligtho,li.row.cllasaf,li.row.clotros,li.row.clnorte,.b-cr2,li.row.cllasaf span.color-groups,li.row.clotros span.color-groups,li.row.clnorte span.color-groups,li.row.clupper span.color-groups,li.row.clclubd span.color-groups,li.row.clmidtow span.color-groups,li.row.cldownto span.color-groups,li.row.cluptown span.color-groups,li.row.clriverd span.color-groups,li.row.clmalba span.color-groups,li.row.clelpue span.color-groups,li.row.clforest span.color-groups,li.row.clredho span.color-groups,li.row.clcanars span.color-groups,li.row.clbright span.color-groups,li.row.clstgeo span.color-groups,li.row.clrichmo span.color-groups,li.row.clligtho span.color-groups,li.row.cltheti,li.row.clthego,li.row.clacepta
+ span.color-groups,li.row.clclubes,li.row.clclubes span.color-groups,li.row.clmision,li.row.clmision span.color-groups,li.row.clcasino,li.row.clcasino span.color-groups,li.row.clawards,li.row.clupper,li.row.clclubd,li.row.clmidtow,li.row.cldownto,li.row.cluptown,li.row.clriverd,li.row.clmalba,li.row.clelpue,li.row.clforest,li.row.clredho,li.row.clcanars,li.row.clbright,li.row.clstgeo,li.row.clupt,li.row.clrichmo,li.row.clligtho,li.row.cllasaf,li.row.clotros,li.row.clnorte,.b-cr2,li.row.cllasaf span.color-groups,li.row.clotros span.color-groups,li.row.clnorte span.color-groups,li.row.clupper span.color-groups,li.row.clclubd span.color-groups,li.row.clmidtow span.color-groups,li.row.cldownto span.color-groups,li.row.cluptown span.color-groups,li.row.clriverd span.color-groups,li.row.clmalba span.color-groups,li.row.clelpue span.color-groups,li.row.clforest span.color-groups,li.row.clredho span.color-groups,li.row.clcanars span.color-groups,li.row.clbright span.color-groups,li.row.clstgeo span.color-groups,li.row.clrichmo span.color-groups,li.row.clligtho span.color-groups,li.row.cltheti,li.row.clthego,li.row.clacepta
+{position: relative;}
+
+/** TODO ESTE CODIGO VA EN INDEX_BODY Y EN VIEWFORUM_BODY **/
+
+/**absolute**/
+div.forabg li.header:after,.digi1:after,ul.topiclist dt, ul.topiclist dd.dterm,a.forumtitle,dd.topics,dd.posts,dd.lastpost,.clprimer a.forumtitle:before,li.row.clprimer:after,li.row.clprimer dd.posts:before,li.row.clprimer dd.topics:before,li.row.cldudas:after,.cldudas a.forumtitle,.cldudas a.forumtitle:before,li.row.cldudas dd.posts:before,li.row.cldudas dd.topics:before,li.row.cltablón:after,.cltablón a.forumtitle,.cltablón a.forumtitle:before,li.row.cltablón .bicar1:before,li.row.cltablón .bicar1:after,li.row.cltablón dd.posts:before,li.row.cltablón dd.topics:before,li.row.clbienve:after,li.row.clbienve dd.posts:before,li.row.clbienve dd.topics:before,li.row.clsolici:after,.clsolici a.forumtitle,.clsolici a.forumtitle:before,li.row.clsolici dd.posts:before,li.row.clsolici dd.topics:before,li.row.clregist:after,.clregist a.forumtitle,.clregist a.forumtitle:before,li.row.clregist dd.posts:before,li.row.clregist dd.topics:before,li.row.cltransa:after,.cltransa a.forumtitle,.cltransa a.forumtitle:before,li.row.cltransa dd.posts:before,li.row.cltransa dd.topics:before,li.row.clexpedi:after,li.row.clzonad:after,li.row.cladmini:after,li.row.clruleta:after,li.row.clcorres:after,li.row.clacepta:after,li.row.clcódigo:after,.clexpedi a.forumtitle,.clzonad a.forumtitle,.cladmini a.forumtitle,.clruleta a.forumtitle,.clcódigo a.forumtitle,.clexpedi a.forumtitle:before,.clzonad a.forumtitle:before,.cladmini a.forumtitle:before,.clruleta a.forumtitle:before,.clcódigo a.forumtitle:before,li.row.clexpedi .bicar1:before,li.row.clzonad .bicar1:before,li.row.cladmini .bicar1:before,li.row.clruleta .bicar1:before,li.row.clcorres .bicar1:before,li.row.clacepta .bicar1:before,li.row.clcódigo .bicar1:before,li.row.clexpedi .bicar1:after,li.row.clzonad .bicar1:after,li.row.cladmini .bicar1:after,li.row.clruleta .bicar1:after,li.row.clcorres .bicar1:after,li.row.clacepta .bicar1:after,li.row.clcódigo .bicar1:after,li.row.clexpedi dd.posts:before,li.row.clzonad dd.posts:before,li.row.cladmini dd.posts:before,li.row.clruleta dd.posts:before,li.row.clcorres dd.posts:before,li.row.clacepta dd.posts:before,li.row.clcódigo dd.posts:before,li.row.clexpedi dd.topics:before,li.row.clzonad dd.topics:before,li.row.cladmini dd.topics:before,li.row.clruleta dd.topics:before,li.row.clcorres dd.topics:before,li.row.clacepta dd.topics:before,li.row.clcódigo dd.topics:before,li.row.clbaules:after,li.row.cljuegos:after,li.row.clmesad:after,li.row.clmesad:after,li.row.clcodigo:after,li.row.cldiario:after,li.row.clperson:after,li.row.clorgani:after,.clbaules a.forumtitle,.cljuegos a.forumtitle,.clmesad a.forumtitle,.clcodigo a.forumtitle,.clorgani a.forumtitle,.clbaules a.forumtitle:before,.cljuegos a.forumtitle:before,.clmesad a.forumtitle:before,.clcodigo a.forumtitle:before,.clorgani a.forumtitle:before,li.row.clbaules dd.posts:before,li.row.cljuegos dd.posts:before,li.row.clmesad dd.posts:before,li.row.clcodigo dd.posts:before,li.row.cldiario dd.posts:before,li.row.clperson dd.posts:before,li.row.clorgani dd.posts:before,li.row.clbaules dd.topics:before,li.row.cljuegos dd.topics:before,li.row.clmesad dd.topics:before,li.row.clcodigo dd.topics:before,li.row.cldiario dd.topics:before,li.row.clperson dd.topics:before,li.row.clorgani dd.topics:before,li.row.clbúsque:after,li.row.clafilia:after,li.row.clprueba:after,li.row.clpapele:after,li.row.cluniver:after,li.row.clexpmu:after,li.row.clbitáco:after,li.row.clbúsque dd.posts:before,li.row.clafilia dd.posts:before,li.row.clprueba dd.posts:before,li.row.clpapele dd.posts:before,li.row.cluniver dd.posts:before,li.row.clexpmu dd.posts:before,li.row.clbitáco dd.posts:before,.clbúsque a.forumtitle,.clafilia a.forumtitle,.clprueba a.forumtitle,.clpapele a.forumtitle,.cluniver a.forumtitle,.clexpmu a.forumtitle,.clbitáco a.forumtitle,.clbúsque a.forumtitle:before,.clafilia a.forumtitle:before,.clprueba a.forumtitle:before,.clpapele a.forumtitle:before,.cluniver a.forumtitle:before.clexpmu a.forumtitle:before,.clbitáco a.forumtitle:before,li.row.clbúsque dd.topics:before,li.row.clafilia dd.topics:before,li.row.clprueba dd.topics:before,li.row.clpapele dd.topics:before,li.row.cluniver dd.topics:before,li.row.clexpmu dd.topics:before,li.row.clbitáco dd.topics:before,li.row.clclubes:after,.clclubes a.forumtitle,.clclubes a.forumtitle:before,li.row.clclubes dd.posts:before,li.row.clclubes dd.topics:before,li.row.clmision:after,.clmision a.forumtitle,.clmision a.forumtitle:before,li.row.clmision dd.posts:before,li.row.clmision dd.topics:before,li.row.clcasino:after,.clcasino a.forumtitle,.clcasino a.forumtitle:before,li.row.clcasino dd.posts:before,li.row.clcasino dd.topics:before,li.row.clawards:after,.clawards a.forumtitle,.clawards a.forumtitle:before,li.row.clawards dd.posts:before,li.row.clawards dd.topics:before,.bicar,.bicar0,.bicar1,.b-cr2:before,li.row.clprimer .bicar1:before,li.row.clprimer .bicar1:after,li.row.cllasaf:after,li.row.clotros:after,li.row.clnorte:after,li.row.clcentro:after,li.row.cloceaní:after,li.row.cleuropa:after,li.row.cláfrica:after,li.row.clasia:after,li.row.cllatino:after,li.row.clupper:after,li.row.clclubd:after,li.row.clmidtow:after,li.row.cldownto:after,li.row.cluptown:after,li.row.clriverd:after,li.row.clmalba:after,li.row.clelpue:after,li.row.clforest:after,li.row.clredho:after,li.row.clcanars:after,li.row.clbright:after,li.row.clstgeo:after,li.row.clrichmo:after,li.row.clligtho:after,.cllasaf a.forumtitle,.clotros a.forumtitle,.clnorte a.forumtitle,.clcentro a.forumtitle,.cleuropa a.forumtitle,.cláfrica a.forumtitle,.clasia a.forumtitle,.cllatino a.forumtitle,.cloceaní a.forumtitle,.clupper a.forumtitle,.clclubd a.forumtitle,.clmidtow a.forumtitle,.cldownto a.forumtitle,.cluptown a.forumtitle,.clriverd a.forumtitle,.clmalba a.forumtitle,.clelpue a.forumtitle,.clforest a.forumtitle,.clredho a.forumtitle,.clcanars a.forumtitle,.clbright a.forumtitle,.clstgeo a.forumtitle,.clrichmo a.forumtitle,.clligtho a.forumtitle,li.row.cllasaf dd.posts:before,li.row.clotros dd.posts:before,li.row.clnorte dd.posts:before,li.row.clcentro dd.posts:before,li.row.cleuropa dd.posts:before,li.row.cláfrica dd.posts:before,li.row.clasia dd.posts:before,li.row.cllatino dd.posts:before,li.row.cloceaní dd.posts:before,li.row.clupper dd.posts:before,li.row.clclubd dd.posts:before,li.row.clmidtow dd.posts:before,li.row.cldownto dd.posts:before,li.row.cluptown dd.posts:before,li.row.clriverd dd.posts:before,li.row.clmalba dd.posts:before,li.row.clelpue dd.posts:before,li.row.clforest dd.posts:before,li.row.clredho dd.posts:before,li.row.clcanars dd.posts:before,li.row.clbright dd.posts:before,li.row.clstgeo dd.posts:before,li.row.clrichmo dd.posts:before,li.row.clligtho dd.posts:before,li.row.cllasaf dd.topics:before,li.row.clotros dd.topics:before,li.row.clnorte dd.topics:before,li.row.clcentro dd.topics:before,li.row.cleuropa dd.topics:before,li.row.cláfrica dd.topics:before,li.row.clasia dd.topics:before,li.row.cllatino dd.topics:before,li.row.cloceaní dd.topics:before,li.row.clupper dd.topics:before,li.row.clclubd dd.topics:before,li.row.clmidtow dd.topics:before,li.row.cldownto dd.topics:before,li.row.cluptown dd.topics:before,li.row.clriverd dd.topics:before,li.row.clmalba dd.topics:before,li.row.clelpue dd.topics:before,li.row.clforest dd.topics:before,li.row.clredho dd.topics:before,li.row.clcanars dd.topics:before,li.row.clbright dd.topics:before,li.row.clstgeo dd.topics:before,li.row.clrichmo dd.topics:before,li.row.clligtho dd.topics:before,.cltheti a.forumtitle{position: absolute;}
+
+dl.icon,.digi1{position: absolute!important;}
+
+.clprimer a.forumtitle:before,li.row.clprimer dd.posts:before,li.row.clprimer dd.topics:before,.cldudas a.forumtitle:before,li.row.cldudas dd.posts:before,li.row.cldudas dd.topics:before,.cltablón a.forumtitle:before,li.row.cltablón dd.posts:before,li.row.cltablón dd.topics:before,li.row.clbienve dd.posts:before,.clsolici a.forumtitle:before,li.row.clbienve dd.topics:before,li.row.clsolici dd.posts:before,li.row.clsolici dd.topics:before,.clregist a.forumtitle:before,li.row.clregist dd.posts:before,li.row.clregist dd.topics:before,.cltransa a.forumtitle:before,li.row.cltransa dd.posts:before,li.row.cltransa dd.topics:before,.clexpedi a.forumtitle:before,.clzonad a.forumtitle:before,.cladmini a.forumtitle:before,.clruleta a.forumtitle:before,.clcorres a.forumtitle:before,.clcódigo a.forumtitle:before,li.row.clexpedi dd.posts:before,li.row.clzonad dd.posts:before,li.row.cladmini dd.posts:before,li.row.clruleta dd.posts:before,li.row.clcorres dd.posts:before,li.row.clcódigo dd.posts:before,li.row.clexpedi dd.topics:before,li.row.clzonad dd.topics:before,li.row.cladmini dd.topics:before,li.row.clruleta dd.topics:before,li.row.clcorres dd.topics:before,li.row.clcódigo dd.topics:before,.clbaules a.forumtitle:before,.cljuegos a.forumtitle:before,.clmesad a.forumtitle:before,.clcodigo a.forumtitle:before,.clorgani a.forumtitle:before,li.row.clbaules dd.posts:before,li.row.cljuegos dd.posts:before,li.row.clmesad dd.posts:before,li.row.clcodigo dd.posts:before,li.row.cldiario dd.posts:before,li.row.clperson dd.posts:before,li.row.clorgani dd.posts:before,li.row.clbaules dd.topics:before,li.row.cljuegos dd.topics:before,li.row.clmesad dd.topics:before,li.row.clcodigo dd.topics:before,li.row.cldiario dd.topics:before,li.row.clperson dd.topics:before,li.row.clorgani dd.topics:before,.clbúsque a.forumtitle:before,.clafilia a.forumtitle:before,.clprueba a.forumtitle:before,.clpapele a.forumtitle:before,.cluniver a.forumtitle:before,.clexpmu a.forumtitle:before,.clbitáco a.forumtitle:before,li.row.clbúsque dd.posts:before,li.row.clafilia dd.posts:before,li.row.clprueba dd.posts:before,li.row.clpapele dd.posts:before,li.row.cluniver dd.posts:before,li.row.clexpmu dd.posts:before,li.row.clbitáco dd.posts:before,li.row.clbúsque dd.topics:before,li.row.clafilia dd.topics:before,li.row.clprueba dd.topics:before,li.row.clpapele dd.topics:before,li.row.cluniver dd.topics:before,li.row.clexpmu dd.topics:before,li.row.clbitáco dd.topics:before,.clclubes a.forumtitle:before,li.row.clclubes dd.posts:before,li.row.clclubes dd.topics:before,.clmision a.forumtitle:before,li.row.clmision dd.posts:before,li.row.clmision dd.topics:before,.clcasino a.forumtitle:before,li.row.clcasino dd.posts:before,li.row.clcasino dd.topics:before,.clawards a.forumtitle:before,li.row.clawards dd.posts:before,li.row.clawards dd.topics:before,.b-cr2:before,li.row.cllasaf dd.posts:before,li.row.clotros dd.posts:before,li.row.clnorte dd.posts:before,li.row.clcentro dd.posts:before,li.row.cleuropa dd.posts:before,li.row.cláfrica dd.posts:before,li.row.clasia dd.posts:before,li.row.cllatino dd.posts:before,li.row.cloceaní dd.posts:before,li.row.clupper dd.posts:before,li.row.clclubd dd.posts:before,li.row.clmidtow dd.posts:before,li.row.cldownto dd.posts:before,li.row.cluptown dd.posts:before,li.row.clriverd dd.posts:before,li.row.clmalba dd.posts:before,li.row.clelpue dd.posts:before,li.row.clforest dd.posts:before,li.row.clredho dd.posts:before,li.row.clcanars dd.posts:before,li.row.clbright dd.posts:before,li.row.clstgeo dd.posts:before,li.row.clrichmo dd.posts:before,li.row.clligtho dd.posts:before,li.row.cllasaf dd.topics:before,li.row.clotros dd.topics:before,li.row.clnorte dd.topics:before,li.row.clcentro dd.topics:before,li.row.cleuropa dd.topics:before,li.row.cláfrica dd.topics:before,li.row.clasia dd.topics:before,li.row.cllatino dd.topics:before,li.row.cloceaní dd.topics:before,li.row.clupper dd.topics:before,li.row.clclubd dd.topics:before,li.row.clmidtow dd.topics:before,li.row.cldownto dd.topics:before,li.row.cluptown dd.topics:before,li.row.clriverd dd.topics:before,li.row.clmalba dd.topics:before,li.row.clelpue dd.topics:before,li.row.clforest dd.topics:before,li.row.clredho dd.topics:before,li.row.clcanars dd.topics:before,li.row.clbright dd.topics:before,li.row.clstgeo dd.topics:before,li.row.clrichmo dd.topics:before,li.row.clligtho dd.topics:before{font-family: cappuccicons;}
+
+div.forabg h2,.digi,.digi1,li.row,li.row.clprimer,li.row.cldudas,li.row.cldudas span.color-groups,li.row.cltablón,li.row.cltablón span.color-groups,li.row.cltablón,li.row.clbienve,li.row.clbienve span.color-groups,li.row.clsolici,li.row.clsolici span.color-groups,li.row.clregist,li.row.clregist span.color-groups,li.row.cltransa,li.row.cltransa span.color-groups,li.row.clexpedi,li.row.clzonad,li.row.cladmini,li.row.clruleta,li.row.clcorres,li.row.clcódigo,li.row.clcódigo span.color-groups,li.row.clbaules,li.row.cljuegos,li.row.clmesad,li.row.clcodigo,li.row.cldiario,li.row.clperson,li.row.clorgani,li.row.clbaules span.color-groups,li.row.cljuegos span.color-groups,li.row.clmesad span.color-groups,li.row.clcodigo span.color-groups,li.row.cldiario span.color-groups,li.row.clperson span.color-groups,li.row.clorgani span.color-groups,li.row.clbúsque,li.row.clafilia,li.row.clpapele,li.row.cluniver,li.row.clexpmu,li.row.clbitáco,li.row.clprueba,li.row.clbúsque span.color-groups,li.row.clafilia span.color-groups,li.row.clprueba span.color-groups,li.row.clpapele span.color-groups,li.row.cluniver span.color-groups,li.row.clexpmu span.color-groups,li.row.div.forabg h2,.digi,.digi1,li.row,li.row.clprimer,li.row.cldudas,li.row.cldudas span.color-groups,li.row.cltablón,li.row.cltablón span.color-groups,li.row.cltablón,li.row.clbienve,li.row.clbienve span.color-groups,li.row.clsolici,li.row.clsolici span.color-groups,li.row.clregist,li.row.clregist span.color-groups,li.row.cltransa,li.row.cltransa span.color-groups,li.row.clexpedi,li.row.clzonad,li.row.cladmini,li.row.clruleta,li.row.clcorres,li.row.clcódigo,li.row.clcódigo span.color-groups,li.row.clbaules,li.row.cljuegos,li.row.clmesad,li.row.clcodigo,li.row.cldiario,li.row.clperson,li.row.clorgani,li.row.clbaules span.color-groups,li.row.cljuegos span.color-groups,li.row.clmesad span.color-groups,li.row.clcodigo span.color-groups,li.row.cldiario span.color-groups,li.row.clperson span.color-groups,li.row.clorgani span.color-groups,li.row.clbúsque,li.row.clafilia,li.row.clpapele,li.row.cluniver,li.row.clexpmu,li.row.clbitáco,li.row.clprueba,li.row.clbúsque span.color-groups,li.row.clafilia span.color-groups,li.row.clprueba span.color-groups,li.row.clpapele span.color-groups,li.row.cluniver span.color-groups,li.row.clexpmu span.color-groups,li.row.clclubes,li.row.clclubes span.color-groups,li.row.clmision,li.row.clmision span.color-groups,li.row.clcasino,li.row.clcasino span.color-groups,li.row.clawards,li.row.clupper,li.row.clclubd,li.row.clmidtow,li.row.cldownto,li.row.cluptown,li.row.clriverd,li.row.clmalba,li.row.clelpue,li.row.clforest,li.row.clredho,li.row.clcanars,li.row.clbright,li.row.clstgeo,li.row.clupt,li.row.clrichmo,li.row.clligtho,li.row.cllasaf,li.row.clotros,li.row.clnorte,li.row.clcentro,li.row.cleuropa,li.row.cláfrica,li.row.clasia,li.row.cllatino,li.row.cloceaní,.b-cr2,li.row.cllasaf span.color-groups,li.row.clotros span.color-groups,li.row.clnorte span.color-groups,li.row.clcentro span.color-groups,li.row.cleuropa span.color-groups,li.row.cláfrica span.color-groups,li.row.clasia span.color-groups,li.row.cllatino span.color-groups,li.row.cloceaní span.color-groups,li.row.clupper span.color-groups,li.row.clclubd span.color-groups,li.row.clmidtow span.color-groups,li.row.cldownto span.color-groups,li.row.cluptown span.color-groups,li.row.clriverd span.color-groups,li.row.clmalba span.color-groups,li.row.clelpue span.color-groups,li.row.clforest span.color-groups,li.row.clredho span.color-groups,li.row.clcanars span.color-groups,li.row.clbright span.color-groups,li.row.clstgeo span.color-groups,li.row.clrichmo span.color-groups,li.row.clligtho span.color-groups,li.row.cltheti,li.row.clthego,li.row.clacepta span.color-groups
+{position: relative;}
+
+/**absolute**/
+
+/*subforos*/
+.table-title h2{line-height:0!important}
+li.header dl.icon dd.dterm{padding:0!important;width:100%;}
+.forabg{margin-bottom:30px!important}
+ul.topiclist.forums{width:865px;margin-top: 13px;margin-left: 80px!important;border:solid 1px #1e1e1e}
+
+div.forabg li.header{height: 114px;}
+
+div.forabg li.header:after{content: '';display: block;height: 1px;left: 54px;-webkit-mask-image: none!important;width: 900px;background: linear-gradient(0.25turn,rgba(0,0,0,0),var(--clr2),var(--clr2),rgba(0,0,0,0));top: 110px;}
+
+div.forabg h2 {font-family: 'Poiret One',cursive;font-size: 74px!important;text-transform: uppercase;top: 14px;left: 70px;display: block!important;height: 100px;width: 878px;}
+
+.digi,.digi1{display: inline-block;}
+
+.digi span{color:white;}
+
+.digi{-webkit-mask-image:linear-gradient(to top,transparent 29%,black 70%);color: #8d4040;height: 135px;text-shadow: 1px 1px 1px rgb(0 0 0);padding-top: 52px; width: 100%;}
+
+.digi1{-webkit-mask-image: linear-gradient(to bottom,transparent -20%,black 100%);left: -220px;text-shadow: 2px 2px 2px #000; transform: rotate(-90deg);top: 225px;color: #fff;height: 65px;padding-top: 29px;width: 370px;text-align: right;-webkit-transform-origin: 50% 51%;}
+
+.digi1:after{content:''; display: block;height: 1px;right: 20px;width: 350px;background: linear-gradient(0.25turn,rgba(0,0,0,0),var(--clr2),var(--clr2),rgba(0,0,0,0));top: 29px;}
+
+/***/
+div.forabg.clwel ul.topiclist.forums{height:413px;}
+
+li.row{background: #141414;border: solid 7px #181818;margin: 5px;display: inline-flex!important;width: 215px;height: 300px;}
+
+dl.icon{width: 22px;height: 23px; min-height:23px!important;z-index: 10;pointer-events: none}
+
+forabg dl.icon{display:none!important}
+
+ul.topiclist dt, ul.topiclist dd.dterm { height: 1px;padding: 0!important;width: 100%;}
+
+a.forumtitle{margin: 0;text-transform: uppercase;color:#88312e;font-family: 'Poiret One';letter-spacing: 2px;text-shadow: 1px 1px 1px #000;margin-left: 40px;font-weight:600;font-size: 20px;}
+
+a.forumtitle:visited{color:#88312e}
+
+a.forumtitle:hover{color:#fd4d4d}
+
+.forabg.clwelcom ul.topiclist.forums{height: 420px;}
+
+li.row.clprimer,li.row.cldudas,li.row.clbienve,li.row.cltablón,li.row.clsolici,li.row.clregist,li.row.cltransa,li.row.clexpedi,li.row.clbaules,li.row.clbúsque,li.row.clbúsque,li.row.cljuegos,li.row.clmesad,li.row.clafilia,li.row.clclubes,li.row.clcasino,li.row.clmision,li.row.clawards,li.row.clawards span.color-groups{box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.16);-webkit-box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.16);-moz-box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.16);}
+
+/**/
+
+a.forumtitle,dd.lastpost,dd.topics,dd.posts{z-index:10}
+
+.lastpost-infos strong{margin-left: 10px;}
+
+dd.topics,dd.posts{padding: 0!important;}
+
+dd.lastpost{padding: 0!important;text-shadow: 1px 1px 1px #000;}
+
+dd.lastpost br{display:none}
+
+/**/
+
+.clprimer a.forumtitle:before{content: '\ea0d';font-size: 18px;top: 0;color:var(--clr2);left: -28px;}
+
+.clprimer a.forumtitle{left: 10px;top: 15px;}
+
+li.row.clprimer{width: 655px; height: 230px;color: #3a3a3a;vertical-align: top;}
+
+li.row.clprimer:after{content: ''; border: solid 1px #fff;width: 624px;height: 200px;top: 8px;left: 8px;pointer-events:none;mix-blend-mode: overlay;}
+
+li.row.clprimer dd.posts{color: #fff;top: 59px;right: 12px;font-family: 'Josefin Sans',sans-serif;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;font-size: 15px;text-align: left;width: auto;padding: 0!important;float: none;transform: rotate(270deg);-webkit-transform-origin: 50% 51%;}
+
+li.row.clprimer dd.posts:before{content: '\ea9b'; font-size: 10px;top: 3px;left: -15px;}
+
+li.row.clprimer dd.topics{color: #fff;top: 123px;right: 12px;font-family: 'Josefin Sans',sans-serif;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;font-size: 15px;text-align: left;width: auto;padding: 0!important;float: none;transform: rotate(270deg);-webkit-transform-origin: 50% 51%;}
+
+li.row.clprimer dd.topics:before{content: '\e9cf';font-size: 10px;top: 3px;left: -15px;}
+
+li.row.clprimer dl.icon{top:15px;right:15px}
+
+/**/
+
+li.row.cldudas{width: 185px;height: 400px;color: #3a3a3a;vertical-align: top;margin: 8px; margin-top: 0;}
+
+li.row.cldudas:after{content: '';border: solid 1px #fff;width: 155px;height: 370px;top: 8px;left: 8px;pointer-events: none; mix-blend-mode: overlay;}
+
+.cldudas a.forumtitle{top: 296px;right: 82px;}
+
+.cldudas a.forumtitle:before{content: '\ecb9';font-size: 18px;top: 0;color:var(--clr2);right: -28px;}
+
+li.row.cldudas .bicar{height:387px}
+
+li.row.cldudas .bicar0{top: 125px;width: 130px;height: 150px;left: 20px;padding: 5px;}
+
+li.row.cldudas .bicar1{top: 107px;right: 71px;height: 25px;width: 31px;}
+
+li.row.cldudas dd.lastpost{bottom: 9px; width: 154px;background: linear-gradient(0.75turn,rgba(0,0,0,0),rgba(35,35,35,1),rgba(35,35,35,1));font-family: 'Josefin Sans';text-transform: uppercase;font-size: 9px!important;color: #fff;font-weight: 300;letter-spacing: 1px;height: auto;left: 9px;padding-top: 8px!important;padding-left: 10px!important;line-height: 1;}
+
+li.row.cldudas dd.lastpost br{display:block}
+
+li.row.cldudas span.color-groups{color: #A63939;width: 159px;display: block;margin-left: -12px;text-align: left;}
+
+li.row.cldudas dl.icon{top: 15px;right: 15px;}
+
+li.row.cldudas dd.posts{color: rgb(255, 255, 255);top: 12px;left: 75px;font-family: "Josefin Sans", sans-serif;text-shadow: rgb(0, 0, 0) 1px 1px 1px;letter-spacing: 1px;font-size: 15px;text-align: left;width: auto;float: none;padding: 0px !important;}
+
+li.row.cldudas dd.posts:before{content: '\ea9b';font-size: 10px;top: 3px;left: -15px;}
+
+li.row.cldudas dd.topics{color: #fff;top: 11px;left: 31px;font-family: 'Josefin Sans',sans-serif;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;font-size: 15px;text-align: left;width: auto;padding: 0!important;float: none;}
+
+li.row.cldudas dd.topics:before{content: '\e9cf';font-size: 10px;top: 3px;left: -15px;}
+
+/**/
+
+li.row.cltablón{width: 185px;height: 400px;color: #3a3a3a;vertical-align: top;}
+
+li.row.cltablón:after{content: '';border: solid 1px #fff;width: 390px; height: 132px;top: 8px;left: 8px;pointer-events: none;mix-blend-mode: overlay;}
+
+.cltablón a.forumtitle{top: 12px;right: 13px;}
+
+.cltablón a.forumtitle:before{content: '\ebaa';font-size: 18px; top:0;color:var(--clr2);left: -28px;}
+
+li.row.cltablón .bicar{height:155px}
+
+li.row.cltablón .bicar0{top: 44px; width: 160px;height: 67px;right: 23px;padding: 5px;}
+
+li.row.cltablón .bicar1{top: 51px;right: 206px;height: 25px;width: 120px;text-align: right;}
+
+li.row.cltablón .bicar1:before {content: '';display: block; width: 1px;height: 25px; background: #fff;top: 0;left:8px;pointer-events: none;mix-blend-mode: overlay;}
+
+li.row.cltablón .bicar1:after {content: '';display: block; width: 1px;height: 25px;background: #fff;top: 30px;right: -14px;pointer-events: none;mix-blend-mode: overlay;}
+
+li.row.cltablón dd.lastpost{bottom: 9px;width: 97%;background: linear-gradient(0.75turn,rgba(0,0,0,0),rgba(0,0,0,0),rgba(35,35,35,1),rgba(35,35,35,1));font-family: 'Josefin Sans';text-transform: uppercase;font-size: 9px!important;color: #fff;font-weight: 300;letter-spacing: 2px;height: 16px; left: 9px;padding-left: 10px!important;}
+
+li.row.cltablón span.color-groups{color: #A63939;
+idth: 159px;display: block;margin-left: -12px;text-align: left;}
+
+li.row.cltablón dl.icon{bottom: 15px;right: 15px;}
+
+li.row.cltablón dd.posts{color: #fff;top: 25px;left: 12px;font-family: "Josefin Sans",sans-serif;text-shadow: #000 1px 1px 1px;letter-spacing: 1px;font-size: 12px;text-align: left;width: auto;float: none;padding: 0!important;transform: rotate(270deg);-webkit-transform-origin: 52% 50%;}
+
+li.row.cltablón dd.posts:before{content: '\ea9b';font-size: 10px;top: 3px;left: -15px;}
+
+li.row.cltablón dd.topics{color: #fff;bottom: 51px;left: 18px;font-family: 'Josefin Sans',sans-serif;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;font-size: 12px;text-align: left;width: auto; padding: 0!important;float: none;transform: rotate(270deg);-webkit-transform-origin: 52% 50%;}
+
+li.row.cltablón dd.topics:before{content: '\e9cf';font-size: 10px;top: 3px;left: -15px;}
+
+li.row.cltablón dd.lastpost br{display:none}
+
+li.row.cltablón{width: 420px;height: 162px;color: #3a3a3a; vertical-align: top;top: -170px;}
+
+/**/
+
+/**/
+
+li.row.clbienve{width: 227px;height: 162px;color: #3a3a3a;top: -170px;margin-left: 8px;}
+
+li.row.clbienve:after{content: '';border: solid 1px #fff; width:196px;height: 132px;top: 8px;left: 8px;pointer-events: none;mix-blend-mode: overlay;}
+
+.clbienve a.forumtitle{top: 13px;right: 21px;line-height: 1;font-size: 14px;text-align: right;}
+
+li.row.clbienve .bicar{height:155px}
+
+li.row.clbienve .bicar0{top: 44px;width: 160px;height: 67px;right: 23px;padding: 5px;}
+
+li.row.clbienve .bicar1{top: 27px;left: 27px;height: 25px;width: 28px;text-align: right;}
+
+li.row.clbienve dd.lastpost{bottom: 9px;width: 154px;background: linear-gradient(0.75turn,rgba(0,0,0,0),rgba(35,35,35,1),rgba(35,35,35,1));font-family: 'Josefin Sans'; text-transform: uppercase;font-size: 9px!important;color: #fff;font-weight: 300;letter-spacing: 1px;height: auto;left: 9px;padding-top: 8px!important;padding-left: 10px!important;line-height: 1;}
+
+li.row.clbienve dd.lastpost br{display:block}
+
+li.row.clbienve span.color-groups{color: #A63939;width: 159px;display: block;margin-left: -12px;text-align: left;}
+
+li.row.clbienve dl.icon{bottom: 15px;right: 15px;}
+
+li.row.clbienve dd.posts{color: #fff;top: 25px;left: 12px;font-family: "Josefin Sans",sans-serif;text-shadow: #000 1px 1px 1px; letter-spacing: 1px;font-size: 12px;text-align: left;width: auto;float: none;padding: 0!important;transform: rotate(270deg); -webkit-transform-origin: 52% 50%;}
+
+li.row.clbienve dd.posts:before{content: '\ea9b';font-size: 10px;top: 3px;left: -15px;}
+
+li.row.clbienve dd.topics{color: #fff;bottom: 51px;left: 18px;font-family: 'Josefin Sans',sans-serif;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;font-size: 12px;text-align: left; width: auto;padding: 0!important;float: none;transform: rotate(270deg);-webkit-transform-origin: 52% 50%;}
+
+li.row.clbienve dd.topics:before{content: '\e9cf';font-size: 10px;top: 3px;left: -15px;}
+
+li.row.clbienve .b-cr2:before{font-size:20px;top:-4px}
+
+/**/
+
+/**/
+
+li.row.clsolici{ width: 302px;height: 350px;color: #3a3a3a;vertical-align: top;margin-left: 9px;}
+
+li.row.clsolici:after{content: '';border: solid 1px #fff;width: 271px;height: 319px;top: 8px;left: 8px;pointer-events: none;mix-blend-mode: overlay;}
+
+.clsolici a.forumtitle{top: 236px;right: 91px;}
+
+.clsolici a.forumtitle:before{content: '\ebae';font-size: 18px;top: 0;color:var(--clr2);right: -28px;}
+
+li.row.clsolici .bicar{height:343px}
+
+li.row.clsolici .bicar0{top: 138px;width: 215px;height: 80px;left: 38px;padding: 5px;}
+
+li.row.clsolici .bicar1{top: 48px;left: 47px;height: 25px;width: 204px;}
+
+li.row.clsolici dd.lastpost{bottom: 9px;width: 97%;background: linear-gradient(0.75turn,rgba(0,0,0,0),rgba(35,35,35,1),rgba(35,35,35,1));font-family: 'Josefin Sans';text-transform: uppercase;font-size: 9px!important;color: #fff;font-weight: 300;letter-spacing: 1px;height: auto;left: 9px;padding-top: 8px!important;padding-left: 10px!important;line-height: 1;}
+
+li.row.clsolici dd.lastpost br{display:none}
+
+li.row.clsolici span.color-groups{color: #A63939;width: 159px;display: block;margin-left: -12px;text-align: left;}
+
+li.row.clsolici dl.icon{top:15px;right:15px;}
+
+li.row.clsolici dd.posts{color: rgb(255, 255, 255);top: 12px;right:15px;font-family: "Josefin Sans", sans-serif;text-shadow: rgb(0, 0, 0) 1px 1px 1px;letter-spacing: 1px;font-size: 15px;text-align: left;width: auto;float: none;padding: 0px !important;}
+
+li.row.clsolici dd.posts:before{content: '\ea9b';font-size: 10px;top: 3px; left: -15px;}
+
+li.row.clsolici dd.topics{color: #fff;top: 11px;left: 31px;font-family: 'Josefin Sans',sans-serif;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;font-size: 15px;text-align: left; width: auto;padding: 0!important;float: none;}
+
+li.row.clsolici dd.topics:before{content: '\e9cf';font-size: 10px;top: 3px; left: -15px;}
+
+/**/
+
+/**/
+
+li.row.clregist{width: 264px;height: 310px;color: #3a3a3a;vertical-align: top;margin-top: 20px;}
+
+li.row.clregist:after{content: '';border: solid 1px #fff; width: 234px;height: 280px;top: 8px;left: 8px;pointer-events: none;mix-blend-mode: overlay;}  
+
+.clregist a.forumtitle{top: 199px;margin:0;left: 62px;}
+
+.clregist a.forumtitle:before{content: '\e917';font-size: 18px;top: 0;color:var(--clr2);right: -28px;}
+
+li.row.clregist .bicar{height:343px}
+
+li.row.clregist .bicar0{top: 97px;width: 173px;height: 80px;left: 38px; padding: 5px;}
+
+li.row.clregist .bicar1{top: 48px;left: 9px; height: 25px; width: 232px;text-align: center;}
+
+li.row.clregist dd.lastpost{bottom: 9px;width: 97%;background: linear-gradient(0.75turn,rgba(0,0,0,0),rgba(35,35,35,1),rgba(35,35,35,1));font-family: 'Josefin Sans';text-transform: uppercase;font-size: 9px!important;color: #fff;font-weight: 300;letter-spacing: 1px;height: auto;left: 9px;padding-top: 8px!important;padding-left: 10px!important; line-height: 1;}
+
+li.row.clregist dd.lastpost br{display:none}
+
+li.row.clregist span.color-groups{color: #A63939;width: 159px;display: block;margin-left: -12px;text-align: left;}
+
+li.row.clregist dl.icon{top: 15px;right: 15px;}
+
+li.row.clregist dd.posts{color: rgb(255, 255, 255);top: 12px;right: 61px; font-family: "Josefin Sans", sans-serif;text-shadow: rgb(0, 0, 0) 1px 1px 1px;letter-spacing: 1px;font-size: 15px;text-align: left;width: auto;float: none;padding: 0px !important;}
+
+li.row.clregist dd.posts:before{content: '\ea9b';font-size: 10px;top: 3px;left: -15px;}  
+
+li.row.clregist dd.topics{color: #fff;top: 11px;left: 98px;font-family: 'Josefin Sans',sans-serif;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;font-size: 15px;text-align: left;width: auto;padding: 0!important;float: none;}
+
+li.row.clregist dd.topics:before{content: '\e9cf';font-size: 10px;top: 3px;left: -15px;}
+
+/**/
+
+/**/
+
+li.row.cltransa{width: 264px;height: 310px;color: #3a3a3a;vertical-align: top;margin-top: 20px;margin-left: 9px;}
+
+li.row.cltransa:after{content: '';border: solid 1px #fff;width: 234px; height: 280px;top: 8px;left: 8px;pointer-events: none;mix-blend-mode: overlay;} 
+
+.cltransa a.forumtitle{top: 199px;margin:0;left: 23px;}
+
+.cltransa a.forumtitle:before{content: '\ec74';font-size: 18px;top: 0;color:var(--clr2);right: -28px;}
+
+li.row.cltransa .bicar{height:343px}
+
+li.row.cltransa .bicar0{top: 97px;width: 173px;height: 80px; left: 38px;padding: 5px;}
+
+li.row.cltransa .bicar1{top: 48px;left: 9px;height: 25px;width: 232px;text-align: center;}
+
+li.row.cltransa dd.lastpost{bottom: 9px;
+    width: 97%;background: linear-gradient(0.75turn,rgba(0,0,0,0),rgba(35,35,35,1),rgba(35,35,35,1));font-family: 'Josefin Sans';text-transform: uppercase;font-size: 9px!important;color: #fff;font-weight: 300;letter-spacing: 1px;height: auto;left: 9px;padding-top: 8px!important;padding-left: 10px!important;line-height: 1;}
+
+li.row.cltransa dd.lastpost br{display:none}
+
+li.row.cltransa span.color-groups{color: #A63939;width: 159px;display: block; margin-left: -12px;text-align: left;}
+
+li.row.cltransa dl.icon{top: 15px;right: 15px;}
+
+li.row.cltransa dd.posts{color: rgb(255, 255, 255);top: 12px;right: 61px;font-family: "Josefin Sans", sans-serif;text-shadow: rgb(0, 0, 0) 1px 1px 1px;letter-spacing: 1px;font-size: 15px;text-align: left;width: auto;float: none;padding: 0px !important;}
+
+li.row.cltransa dd.posts:before{content: '\ea9b'; font-size: 10px;top: 3px;left: -15px;}   
+
+li.row.cltransa dd.topics{color: #fff;top: 11px; left: 98px;font-family: 'Josefin Sans',sans-serif;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;font-size: 15px; text-align: left;width: auto;padding: 0!important;float: none;}
+
+li.row.cltransa dd.topics:before{content: '\e9cf';font-size: 10px;top: 3px; left: -15px;}
+
+/**/
+
+/**/
+
+li.row.clexpedi,li.row.clzonad,li.row.cladmini,li.row.clruleta,li.row.clcorres,li.row.clcódigo,li.row.cltheti,li.row.clacepta{ width: 415px;height: 200px;color: #3a3a3a;vertical-align: top;margin-left: 9px; margin-top: 20px;}
+
+li.row.clexpedi:after,li.row.clzonad:after,li.row.cladmini:after,li.row.clruleta:after,li.row.clcorres:after,li.row.clcódigo:after,li.row.cltheti:after,li.row.clacepta:after{content: '';border: solid 1px #fff;width: 385px;height: 170px; top: 8px;left: 8px;pointer-events: none;mix-blend-mode: overlay;}  
+
+.clexpedi a.forumtitle,.clzonad a.forumtitle,.cladmini a.forumtitle,.clruleta a.forumtitle,.clcorres a.forumtitle,.clcódigo a.forumtitle,.cltheti a.forumtitle,.clacepta a.forumtitle{top: 109px;margin: 0;right: 52px;}
+
+.clexpedi a.forumtitle:before,.clzonad a.forumtitle:before,.cladmini a.forumtitle:before,.clruleta a.forumtitle:before,.clcorres a.forumtitle:before,.clcódigo a.forumtitle:before,.cltheti a.forumtitle:before,.clacepta a.forumtitle:before{font-size: 18px;top: 0;color:var(--clr2);right: -28px;}
+
+.clexpedi a.forumtitle:before{content: '\eabb';}
+.clzonad a.forumtitle:before{content: '\ebc3'}
+.cladmini a.forumtitle:before{content: '\ebc3'}
+.clcódigo a.forumtitle:before{content: '\ebc3'}
+.cltheti a.forumtitle:before{content: '\ebc3'}
+.clacepta a.forumtitle:before{content: '\ebc3'}
+.clcorres a.forumtitle:before{content: '\ebc3'}
+.clruleta a.forumtitle:before{content: '\ebc3'}
+
+li.row.clexpedi .bicar,li.row.clzonad .bicar,li.row.cladmini .bicar,li.row.clruleta .bicar,li.row.clcorres .bicar,li.row.clcódigo .bicar,li.row.cltheti .bicar,li.row.clacepta .bicar{height:193px}
+
+li.row.clexpedi .bicar0,li.row.clzonad .bicar0,li.row.cladmini .bicar0,li.row.clruleta .bicar0,li.row.clcorres .bicar0,li.row.clcódigo .bicar0,li.row.cltheti .bicar0,li.row.clacepta .bicar0{top: 23px;width: 210px;height: 80px;right: 27px;padding: 5px;}
+
+li.row.clexpedi .bicar1,li.row.clzonad .bicar1,li.row.cladmini .bicar1,li.row.clruleta .bicar1,li.row.clcorres .bicar1,li.row.clcódigo .bicar1,li.row.cltheti .bicar1,li.row.clacepta .bicar1{top: 38px;left: 63px;height: 55px;width: 79px;text-align: center;}
+
+li.row.clexpedi .bicar1:before,li.row.clzonad .bicar1:before,li.row.cladmini .bicar1:before,li.row.clruleta .bicar1:before,li.row.clcorres .bicar1:before,li.row.clcódigo .bicar1:before,li.row.cltheti .bicar1:before,li.row.clacepta .bicar1:before{content: '';display: block;width: 1px; height: 25px; background: #fff;top: 0;left: -5px;pointer-events: none;mix-blend-mode: overlay;}
+
+li.row.clexpedi .bicar1:after,li.row.clzonad .bicar1:after,li.row.cladmini .bicar1:after,li.row.clruleta .bicar1:after,li.row.clcorres .bicar1:after,li.row.clcódigo .bicar1:after,li.row.cltheti .bicar1:after,li.row.clacepta .bicar1:after {content: '';display: block;width: 1px;height: 25px;background: #fff;top: 30px;right: -1px; pointer-events: none;mix-blend-mode: overlay;}
+
+li.row.clexpedi dd.lastpost,li.row.clzonad dd.lastpost,li.row.cladmini dd.lastpost,li.row.clruleta dd.lastpost,li.row.clcorres dd.lastpost,li.row.clcódigo dd.lastpost,li.row.cltheti dd.lastpost,li.row.clacepta dd.lastpost{bottom: 9px;width: 97%;background: linear-gradient(0.75turn,rgba(0,0,0,0),rgba(35,35,35,1),rgba(35,35,35,1));font-family: 'Josefin Sans';text-transform: uppercase;font-size: 9px!important;color: #fff;font-weight: 300;letter-spacing: 1px;height: auto;left: 9px;padding-top: 8px!important;padding-left: 10px!important;line-height: 1;}
+
+li.row.clexpedi dd.lastpost br,li.row.clzonad dd.lastpost br,li.row.cladmini dd.lastpost br,li.row.cladmini dd.lastpost br,li.row.clcorres dd.lastpost br,li.row.clcódigo dd.lastpost br,li.row.cltheti dd.lastpost br,li.row.clacepta dd.lastpost br{display:none}
+
+li.row.clexpedi span.color-groups,li.row.clzonad span.color-groups,li.row.clruleta span.color-groups,li.row.clcorres span.color-groups,li.row.cladmini span.color-groups,li.row.clcódigo span.color-groups,li.row.cltheti span.color-groups,li.row.clacepta span.color-groups{color: #A63939;width: 159px;display: block;margin-left: -12px;text-align: left;}
+
+li.row.clexpedi dl.icon,li.row.clzonad dl.icon,li.row.cladmini dl.icon,li.row.clruleta dl.icon,li.row.clcorres dl.icon,li.row.clcódigo dl.icon,li.row.cltheti dl.icon,li.row.clacepta dl.icon{top: 15px;right: 15px;}
+
+li.row.clexpedi dd.posts,li.row.clzonad dd.posts,li.row.cladmini dd.posts,li.row.clruleta dd.posts,li.row.clcorres dd.posts,li.row.clcódigo dd.posts,li.row.cltheti dd.posts,li.row.clacepta dd.posts{color: #fff;top: 25px;left: 12px;font-family: "Josefin Sans",sans-serif;text-shadow: #000 1px 1px 1px;letter-spacing: 1px;text-align: left;width: auto;float: none;padding: 0!important;transform: rotate(270deg);-webkit-transform-origin: 52% 50%;}
+
+li.row.clexpedi dd.posts:before,li.row.clzonad dd.posts:before,li.row.cladmini dd.posts:before,li.row.clruleta dd.posts:before,li.row.clcorres dd.posts:before,li.row.clcódigo dd.posts:before,li.row.cltheti dd.posts:before,li.row.clacepta dd.posts:before{content: '\ea9b';font-size: 10px;top: 3px;left: -15px;}  
+
+li.row.clexpedi dd.topics,li.row.clzonad dd.topics,li.row.cladmini dd.topics,li.row.clruleta dd.topics,li.row.clcorres dd.topics,li.row.clcódigo dd.topics,li.row.cltheti dd.topics,li.row.clacepta dd.topics{color: #fff;bottom:85px;left: 18px;font-family: 'Josefin Sans',sans-serif;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;text-align: left;width: auto; padding: 0!important;float: none;transform: rotate(270deg); -webkit-transform-origin: 52% 50%;}
+
+li.row.clexpedi dd.topics:before,li.row.clzonad dd.topics:before,li.row.cladmini dd.topics:before,li.row.clruleta dd.topics:before,li.row.clcorres dd.topics:before,li.row.clcódigo dd.topics:before,li.row.cltheti dd.topics:before,li.row.clacepta dd.topics:before{content: '\e9cf';font-size: 10px;top: 3px;left: -15px;}
+
+/**/
+
+/**/
+
+li.row.clbaules,li.row.cljuegos,li.row.clmesad,li.row.clcodigo,li.row.cldiario,li.row.clorgani,li.row.clthego,li.row.clperson{width: 415px;height: 200px;color: #3a3a3a;vertical-align: top;margin-left: 9px;margin-top: 20px;
+}
+
+li.row.clbaules:after,li.row.cljuegos:after,li.row.clmesad:after,li.row.clcodigo:after,,li.row.cldiario:after,li.row.clorgani:after,li.row.clthego:after,li.row.clperson:after{content: '';border: solid 1px #fff;width: 385px; height: 170px;top: 8px;left: 8px; pointer-events: none;mix-blend-mode: overlay;} 
+
+.clbaules a.forumtitle,.cljuegos a.forumtitle,.clmesad a.forumtitle,.clcodigo a.forumtitle,.cldiario a.forumtitle,.clorgani a.forumtitle,.clthego a.forumtitle,.clperson a.forumtitle{top: 109px; margin: 0;right: 52px;}
+
+.clbaules a.forumtitle:before,.cljuegos a.forumtitle:before,.clmesad a.forumtitle:before,.clcodigo a.forumtitle:before,.cldiario a.forumtitle:before,.clorgani a.forumtitle:before,.clthego a.forumtitle:before,.clperson a.forumtitle:before{font-size: 18px;top: 0;color:var(--clr2);right: -28px;}
+
+.clbaules a.forumtitle:before{content: '\e99f';}
+.cljuegos a.forumtitle:before{content: '\e92d';}
+.clcodigo a.forumtitle:before{content: '\e92d';}
+.clorgani a.forumtitle:before{content: '\e92d';}
+.clthego a.forumtitle:before{content: '\e92d';}
+.clperson a.forumtitle:before{content: '\e92d';}
+.cldiario a.forumtitle:before{content: '\e92d';}
+.clmesad a.forumtitle:before{content: '\e92d';}
+
+li.row.clbaules .bicar,li.row.cljuegos .bicar,li.row.clmesad .bicar,li.row.clcodigo .bicar,li.row.cldiario .bicar,li.row.clorgani .bicar,li.row.clthego .bicar,li.row.clperson .bicar{height:193px}
+
+li.row.clbaules .bicar0,li.row.cljuegos .bicar0,li.row.clmesad .bicar0,li.row.clcodigo .bicar0,li.row.cldiario .bicar0,li.row.clorgani .bicar0,li.row.clthego .bicar0,li.row.clperson .bicar0{top: 23px;width: 150px;height: 100px;left: 27px;padding: 5px;}
+
+li.row.clbaules .bicar1,li.row.cljuegos .bicar1,li.row.clmesad .bicar1,li.row.clcodigo .bicar1,li.row.cldiario .bicar1,li.row.clorgani .bicar1,li.row.clthego .bicar1,li.row.clperson .bicar1{top: 38px;left: 197px;height: 55px;width: 126px;text-align: center;}
+
+li.row.clbaules dd.lastpost,li.row.cljuegos dd.lastpost,li.row.clmesad dd.lastpost,li.row.clcodigo dd.lastpost,li.row.cldiario dd.lastpost,li.row.clorgani dd.lastpost,li.row.clthego dd.lastpost,li.row.clperson dd.lastpost{bottom: 9px;width: 97%;background: linear-gradient(0.75turn,rgba(0,0,0,0),rgba(35,35,35,1),rgba(35,35,35,1));font-family: 'Josefin Sans';text-transform: uppercase;font-size: 9px!important;color: #fff;font-weight: 300;letter-spacing: 1px;height: auto;left: 9px;padding-top: 8px!important;padding-left: 10px!important;line-height: 1;}
+
+li.row.clbaules dd.lastpost br,li.row.cljuegos dd.lastpost br,li.row.clmesad dd.lastpost br,li.row.clcodigo dd.lastpost br,li.row.cldiario dd.lastpost br,li.row.clorgani dd.lastpost br,li.row.clthego dd.lastpost br,li.row.clperson dd.lastpost br{display:none}
+
+li.row.clbaules span.color-groups,li.row.cljuegos span.color-groups,li.row.clmesad span.color-groups,li.row.clcodigo span.color-groups,li.row.cldiario span.color-groups,li.row.clorgani span.color-groups,li.row.clthego span.color-groups,li.row.clperson span.color-groups{color: #A63939; width: 159px;display: block;margin-left: -12px;text-align: left;}
+
+li.row.clbaules dl.icon,li.row.cljuegos dl.icon,li.row.clmesad dl.icon,li.row.clcodigo dl.icon,li.row.cldiario dl.icon,li.row.clorgani dl.icon,li.row.clthego dl.icon,li.row.clperson dl.icon{top: 15px;right: 15px;}
+
+li.row.clbaules dd.posts,li.row.cljuegos dd.posts,li.row.clmesad dd.posts,li.row.clcodigo dd.posts,li.row.cldiario dd.posts,li.row.clorgani dd.posts,li.row.clthego dd.posts,li.row.clperson dd.posts{color: #fff;top: 11px;right: 27px;font-family: "Josefin Sans",sans-serif;text-shadow: #000 1px 1px 1px;letter-spacing: 1px;text-align: left;width: auto;float: none;padding: 0!important}
+
+li.row.clbaules dd.posts:before,li.row.cljuegos dd.posts:before,li.row.clmesad dd.posts:before,li.row.clcodigo dd.posts:before,li.row.cldiario dd.posts:before,li.row.clorgani dd.posts:before,li.row.clthego dd.posts:before,li.row.clperson dd.posts:before{content: '\ea9b';font-size: 10px;top: 3px;left: -15px;} 
+
+li.row.clbaules dd.topics,li.row.cljuegos dd.topics,li.row.clmesad dd.topics,li.row.clcodigo dd.topics,li.row.cldiario dd.topics,li.row.clorgani dd.topics,li.row.clperson dd.topics,li.row.clthego dd.topics{color: #fff;top: 10px; right: 80px;font-family: 'Josefin Sans',sans-serif;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;text-align: left;width: auto;padding: 0!important;float: none;}
+
+li.row.clbaules dd.topics:before,li.row.cljuegos dd.topics:before,li.row.clmesad dd.topics:before,li.row.clcodigo dd.topics:before,li.row.cldiario dd.topics:before,li.row.clorgani dd.topics:before,li.row.clperson dd.topics:before,li.row.clthego dd.topics:before{content: '\e9cf';font-size: 10px;top: 3px;left: -15px;}
+
+/**/
+
+/**/
+
+li.row.clbúsque,li.row.clafilia,li.row.clpapele,li.row.cluniver,li.row.clexpmu,li.row.clbitáco,li.row.clprueba{width: 840px;height: 100px;color: #3a3a3a;vertical-align: top;margin-left: 9px;margin-top:9px;}
+
+li.row.clbúsque:after,li.row.clafilia:after,li.row.clprueba:after,li.row.clpapele:after,li.row.cluniver:after,li.row.clexpmu:after,li.row.clbitáco:after{content: '';border: solid 1px #fff;width: 810px;height: 70px;top: 8px;left: 8px;pointer-events: none;mix-blend-mode: overlay;} 
+
+.clbúsque a.forumtitle,.clafilia a.forumtitle,.clprueba a.forumtitle,.clpapele a.forumtitle,.cluniver a.forumtitle,.clexpmu a.forumtitle,.clbitáco a.forumtitle{top: 24px;margin: 0;left: 19px;} 
+
+.clbúsque a.forumtitle:before,.clafilia a.forumtitle:before,.clprueba a.forumtitle:before,.clpapele a.forumtitle:before,.cluniver a.forumtitle:before,.clexpmu a.forumtitle:before,.clbitáco a.forumtitle:before{font-size: 18px;top: 0;color:var(--clr2);right: -28px;}
+
+.clbúsque a.forumtitle:before{content: '\ebfc';}
+.clafilia a.forumtitle:before{content: '\ea44';}
+.clprueba a.forumtitle:before{content: '\ea44';}
+.clpapele a.forumtitle:before{content: '\ea44';}
+.clbitáco a.forumtitle:before{content: '\ea44';}
+.clexpmu a.forumtitle:before{content: '\ea44';}
+.cluniver a.forumtitle:before{content: '\ea44';}
+
+li.row.clbúsque .bicar,li.row.clafilia .bicar,li.row.clprueba .bicar,li.row.clpapele .bicar,li.row.cluniver .bicar,li.row.clexpmu .bicar,li.row.clbitáco .bicar{height:193px}
+
+li.row.clbúsque .bicar0,li.row.clafilia .bicar0,li.row.clprueba .bicar0,li.row.clpapele .bicar0,li.row.cluniver .bicar0,li.row.clexpmu .bicar0,li.row.clbitáco .bicar0{top: 16px;width: 220px;height: 45px; left: 356px;padding: 5px;}
+
+li.row.clbúsque .bicar1,li.row.clafilia .bicar1,li.row.clprueba .bicar1,li.row.clpapele .bicar1,li.row.cluniver .bicar1,li.row.clexpmu .bicar1,li.row.clbitáco .bicar1{top: 50px;right: 9px;height: 26px;width: 34px;}
+
+li.row.clbúsque dd.lastpost,li.row.clafilia dd.lastpost,li.row.clprueba dd.lastpost,li.row.clpapele dd.lastpost,li.row.cluniver dd.lastpost,li.row.clexpmu dd.lastpost,li.row.clbitáco dd.lastpost{bottom: 9px;width: 97%;background: linear-gradient(0.75turn,rgba(0,0,0,0),rgba(0,0,0,0),rgba(35,35,35,1),rgba(35,35,35,1));font-family: 'Josefin Sans';text-transform: uppercase;font-size: 9px!important; color: #fff;font-weight: 300;letter-spacing: 2px;height: 16px;left: 9px;padding-left: 10px!important;}
+
+li.row.clbúsque dd.lastpost br,li.row.clafilia dd.lastpost br,li.row.clprueba dd.lastpost br,li.row.clpapele dd.lastpost br,li.row.cluniver dd.lastpost br,li.row.clexpmu dd.lastpost br,li.row.clbitáco dd.lastpost br{display:none}
+
+li.row.clbúsque span.color-groups,li.row.clafilia span.color-groups,li.row.clprueba span.color-groups,li.row.clpapele span.color-groups,li.row.cluniver span.color-groups,li.row.clexpmu span.color-groups,li.row.clbitáco span.color-groups{color: #A63939;width: 159px;display: block;margin-left: -12px;text-align: left;}
+
+li.row.clbúsque dl.icon,li.row.clafilia dl.icon,li.row.clprueba dl.icon,li.row.clpapele dl.icon,li.row.cluniver dl.icon,li.row.clpapele dl.icon,li.row.clexpmu dl.icon{top: 15px;right: 15px;}
+
+li.row.clbúsque dd.posts,li.row.clafilia dd.posts,li.row.clprueba dd.posts,li.row.clbitáco dd.posts,li.row.clpapele dd.posts,li.row.cluniver dd.posts,li.row.clexpmu dd.posts{color: #fff;top: 11px;right: 27px;font-family: "Josefin Sans",sans-serif;text-shadow: #000 1px 1px 1px;letter-spacing: 1px;text-align: left;width: auto;float: none;padding: 0!important;}
+
+li.row.clbúsque dd.posts:before,li.row.clafilia dd.posts:before,li.row.clprueba dd.posts:before,li.row.clpapele dd.posts:before,li.row.cluniver dd.posts:before,li.row.clexpmu dd.posts:before,li.row.clbitáco dd.posts:before{content: '\ea9b';font-size: 10px;top: 3px;left: -15px;} 
+
+li.row.clbúsque dd.topics,li.row.clafilia dd.topics,li.row.clprueba dd.topics,li.row.clpapele dd.topics,li.row.cluniver dd.topics,li.row.clexpmu dd.topics,li.row.clbitáco dd.topics{color: #fff;top: 10px;right: 80px;font-family: 'Josefin Sans',sans-serif;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;text-align: left;width: auto;padding: 0!important;float: none;}
+
+li.row.clbúsque dd.topics:before,li.row.clafilia dd.topics:before,li.row.clprueba dd.topics:before,li.row.clpapele dd.topics:before,li.row.cluniver dd.topics:before,li.row.clexpmu dd.topics:before,li.row.clbitáco dd.topics:before{content: '\e9cf';font-size: 10px;top: 3px;left: -15px;}
+
+/**/
+
+/**/
+
+li.row.clclubes{width: 264px;height: 310px;color: #3a3a3a;vertical-align: top; margin-top: 40px;}
+
+li.row.clclubes:after{content: '';border: solid 1px #fff;width: 234px;height: 280px;top: 8px;left: 8px;pointer-events: none; mix-blend-mode: overlay;} 
+
+.clclubes a.forumtitle{top: 60px;margin:0;left: 62px;}
+
+.clclubes a.forumtitle:before{content: '\ec02';font-size: 18px;top: 0;color:var(--clr2);right: -28px;}
+
+li.row.clclubes .bicar{height: 296px;}
+
+li.row.clclubes .bicar0{top:121px;width: 173px;height: 80px;left: 38px;padding: 5px;}
+
+li.row.clclubes .bicar1{top: 232px;left: 9px;height: 25px; width: 232px;text-align: center;}
+
+li.row.clclubes dd.lastpost{top: 9px;width: 97%;background: linear-gradient(0.75turn,rgba(0,0,0,0),rgba(35,35,35,1),rgba(35,35,35,1));
+    font-family: 'Josefin Sans';text-transform: uppercase;font-size: 9px!important;color: #fff;font-weight: 300;letter-spacing: 1px; height: auto;left: 9px;padding-top: 8px!important;padding-left: 10px!important;line-height: 1;}
+
+li.row.clclubes dd.lastpost br{display:none}
+
+li.row.clclubes span.color-groups{color: #A63939; width: 159px;display: block;margin-left: -12px;text-align: left;}
+
+li.row.clclubes dl.icon{top: 15px;right: 15px;}
+
+li.row.clclubes dd.posts{color: rgb(255, 255, 255);bottom: 12px;right: 61px;font-family: "Josefin Sans", sans-serif;text-shadow: rgb(0, 0, 0) 1px 1px 1px;letter-spacing: 1px;font-size: 15px;text-align: left;width: auto;float: none;padding: 0px !important;}
+
+li.row.clclubes dd.posts:before{content: '\ea9b';font-size: 10px;top: 3px;left: -15px;}  
+
+li.row.clclubes dd.topics{color: #fff;bottom: 11px;left: 98px;font-family: 'Josefin Sans',sans-serif;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;font-size: 15px;text-align: left; width: auto;padding: 0!important;float: none;}
+
+li.row.clclubes dd.topics:before{content: '\e9cf';font-size: 10px;top: 3px;left: -15px;}
+
+/**/
+
+/**/
+
+li.row.clmision{width: 264px;height: 310px;color: #3a3a3a;vertical-align: top;margin-left: 9px;margin-top: 40px;}
+
+li.row.clmision:after{content: ''; border: solid 1px #fff;width: 234px; height: 280px;top: 8px; left: 8px;pointer-events: none;mix-blend-mode: overlay;}  
+
+.clmision a.forumtitle{top: 60px;margin:0;left: 62px;}
+
+.clmision a.forumtitle:before{content: '\ec6e';font-size: 18px;font-weight:normal;top: 0;color:var(--clr2);right: -28px;}
+
+li.row.clmision .bicar{height: 296px;}
+
+li.row.clmision .bicar0{top:121px;width: 173px;height: 80px;left: 38px;padding: 5px;}
+
+li.row.clmision .bicar1{top: 232px;left: 9px; height: 25px; width: 232px;text-align: center;}
+
+li.row.clmision dd.lastpost{top: 9px;width: 97%;background: linear-gradient(0.75turn,rgba(0,0,0,0),rgba(35,35,35,1),rgba(35,35,35,1));font-family: 'Josefin Sans';text-transform: uppercase;font-size: 9px!important;color: #fff;font-weight: 300;letter-spacing: 1px;height: auto;left: 9px;padding-top: 8px!important;padding-left: 10px!important;line-height: 1;}
+
+li.row.clmision dd.lastpost br{display:none}
+
+li.row.clmision span.color-groups{color: #A63939;width: 159px;display: block;margin-left: -12px;text-align: left;}
+
+li.row.clmision dl.icon{top: 15px;right: 15px;}
+
+li.row.clmision dd.posts{color: rgb(255, 255, 255); bottom: 12px; right: 61px;font-family: "Josefin Sans", sans-serif;text-shadow: rgb(0, 0, 0) 1px 1px 1px;letter-spacing: 1px;font-size: 15px;text-align: left; width: auto;float: none;padding: 0px !important;}
+
+li.row.clmision dd.posts:before{content: '\ea9b';font-size: 10px;top: 3px;left: -15px;} 
+
+li.row.clmision dd.topics{color: #fff;bottom: 11px;left: 98px;font-family: 'Josefin Sans',sans-serif;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;font-size: 15px; text-align: left;width: auto;padding: 0!important;float: none;}
+
+li.row.clmision dd.topics:before{content: '\e9cf';font-size: 10px; top: 3px;left: -15px;}
+
+/**/
+
+/**/
+
+li.row.clcasino{width: 302px;height: 190px;color: #3a3a3a;vertical-align: top;margin-left: 9px}
+
+li.row.clcasino:after{content: '';border: solid 1px #fff;width: 271px;height: 160px;top: 8px;left: 8px;pointer-events: none;mix-blend-mode: overlay;}  
+
+.clcasino a.forumtitle{top: 101px;left: -11px;}
+
+.clcasino a.forumtitle:before{content: '\ea4e';font-size: 18px;top: 0;color:var(--clr2);right: -28px;}
+
+li.row.clcasino .bicar{height:343px}
+
+li.row.clcasino .bicar0{top: 42px;width: 180px;height: 60px; left: 29px;padding: 5px;}
+
+li.row.clcasino .bicar1{top: 50px;right: 27px;height: 25px;width: 32px;}
+
+li.row.clcasino dd.lastpost{bottom: 9px; width: 97%;background: linear-gradient(0.75turn,rgba(0,0,0,0),rgba(35,35,35,1),rgba(35,35,35,1));font-family: 'Josefin Sans';text-transform: uppercase;font-size: 9px!important;color: #fff;font-weight: 300;letter-spacing: 1px;height: auto;left: 9px;padding-top: 8px!important;padding-left: 10px!important;line-height: 1;}
+
+li.row.clcasino dd.lastpost br{display:none}
+
+li.row.clcasino span.color-groups{color: #A63939;width: 159px;display: block;margin-left: -12px;text-align: left;}
+
+li.row.clcasino dl.icon{top: 15px;right: 15px;}
+
+li.row.clcasino dd.posts{color: rgb(255, 255, 255);top: 12px;right:15px;font-family: "Josefin Sans", sans-serif;text-shadow: rgb(0, 0, 0) 1px 1px 1px;letter-spacing: 1px;font-size: 15px;text-align: left;width: auto;float: none;padding: 0px !important;}
+
+li.row.clcasino dd.posts:before{content: '\ea9b';font-size: 10px;top: 3px;left: -15px;}  
+
+li.row.clcasino dd.topics{color: #fff;top: 11px;left: 31px;font-family: 'Josefin Sans',sans-serif;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;font-size: 15px;text-align: left;width: auto;padding: 0!important;float: none;}
+
+li.row.clcasino dd.topics:before{content: '\e9cf';font-size: 10px;top: 3px;left: -15px;}
+
+/**/
+
+/**/
+
+li.row.clawards{width: 302px;height: 190px;color: #3a3a3a;vertical-align: top;margin-left: 273px;float: left;margin-top: -150px;}
+
+li.row.clawards:after{content: '';border: solid 1px #fff;width: 271px;height: 160px;top: 8px;left: 8px;pointer-events: none;mix-blend-mode: overlay;}  
+
+.clawards a.forumtitle{top: 52px;left: -20px;line-height: 1;font-size: 15px;}
+
+.clawards a.forumtitle:before{content: '\ea4e';font-size: 18px;top: 0;color:var(--clr2);right: -28px;}
+
+li.row.clawards .bicar{height: 176px;}
+
+li.row.clawards .bicar0{bottom: 42px;width: 180px; height: 60px;right: 29px;padding: 5px;}
+
+li.row.clawards .bicar1{top: 81px;left: 27px;height: 25px;width: 32px;}
+
+li.row.clawards dd.lastpost{top: 9px;width: 97%;background: linear-gradient(0.75turn,rgba(0,0,0,0),rgba(35,35,35,1),rgba(35,35,35,1));
+    font-family: 'Josefin Sans';text-transform: uppercase;font-size: 9px!important;color: #fff;font-weight: 300;letter-spacing: 1px;height: auto;left: 9px;padding-top: 8px!important;padding-left: 10px!important;line-height: 1;}
+
+li.row.clawards dd.lastpost br{display:none}
+
+li.row.clawards span.color-groups{color: #A63939;width: 159px;display: block;margin-left: -12px; text-align: left;}
+
+li.row.clawards dl.icon{top: 15px;right: 15px;}
+
+li.row.clawards dd.posts{color: rgb(255, 255, 255);bottom: 12px;right:15px;font-family: "Josefin Sans", sans-serif; text-shadow: rgb(0, 0, 0) 1px 1px 1px;letter-spacing: 1px;font-size: 15px;text-align: left;width: auto;float: none;padding: 0px !important;}
+
+li.row.clawards dd.posts:before{content: '\ea9b';font-size: 10px;top: 3px;left: -15px;}
+
+li.row.clawards dd.topics{color: #fff;bottom: 11px;left: 31px;font-family: 'Josefin Sans',sans-serif;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;font-size: 15px;text-align: left;width: auto;padding: 0!important;float: none;}
+
+li.row.clawards dd.topics:before{content: '\e9cf';font-size: 10px;top: 3px;left: -15px;}
+
+/**/
+
+/**/
+
+/*descripción*/
+.bicar{display: block;left:0;top:0;width:100%;background-repeat: no-repeat!important}
+
+.bicar0{background: #1a1a1a;overflow: auto;text-transform: uppercase;text-align: justify;color: #a7a7a7;letter-spacing: 1px;font-size: 8px;padding: 10px;color: #a9a9a9;font-family: 'Zen Kaku Gothic Antique';font-weight: 700;}
+
+.bicar1{text-shadow: 1px 1px 1px #000;}
+
+.b-cr2{display: inline-block;width: 30px;height: 23px;}
+
+.b-cr2:before{font-size: 23px;top: -7px;left: 3px;content: '\e97b';}
+
+li.row.clprimer .bicar{height:216px}
+
+li.row.clprimer .bicar0{top: 71px;left: 25px;height: 80px;width: 350px;}
+
+li.row.clprimer .bicar1{bottom: 104px;right: 59px;height: 25px;width: 186px;padding-left: 10px;}
+
+li.row.clprimer .bicar1:before{content:'';display:block;width:1px;height:25px;background:white;top:0;left:-5px;pointer-events:none;mix-blend-mode: overlay;}
+li.row.clprimer .bicar1:after{content:'';display:block;width:1px;height:25px;background:white;top:30px;right:-1px;pointer-events:none;mix-blend-mode: overlay;}
+
+li.row.clprimer dd.lastpost{bottom: 9px;width: 97%;background: linear-gradient(0.75turn,rgba(0,0,0,0),rgba(0,0,0,0),rgba(35,35,35,1),rgba(35,35,35,1));font-family: 'Josefin Sans';text-transform: uppercase;font-size: 9px!important;color: #fff;font-weight: 300;letter-spacing: 2px;height: 16px;left: 9px;padding-left: 10px!important;}
