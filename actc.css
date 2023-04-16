@@ -12,7 +12,7 @@ body::-webkit-scrollbar-button,::-webkit-scrollbar-button{display:none}
   --clr5: #141414,#141414,#141414,#141414,#141414,#141414,#141414,#141414,#141414,#141414,#141414,#141414,#141414,#141414,#141414;
   --clr6: #766a6a;
   --clr7: #88312e;}
-    .act-0{background:#141414;display:block;position: relative;overflow: hidden;width: 675px;height: 475px;margin-left:-8px;margin-top:-8px;}
+    .act-0{background:#141414;display:block;position: relative;overflow: hidden;width: 680px;height: 480px;margin-left:-8px;margin-top:-8px;}
     .act-1{position: absolute;top:22px;font-family: jost;left: 0;text-align: center;width: 250px;height: 30px;padding-top: 5px;}  
     .act-1a{border-right: solid 1px #fff;padding-right: 10px;position: relative;color: var(--clr7);text-shadow: 1px 1px 1px #000;}
     .act-1a:before{content:'\e9ab';font-family:'cappuccicons';position: absolute;top: -19px;left: 34%;color: #fff;}
