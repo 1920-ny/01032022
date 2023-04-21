@@ -5,7 +5,7 @@
   padding: 50px;
   padding-left: 30px;
   display: flex;
-  
+  border: solid 5px #141414;
 }
 
 .to_left {
@@ -14,6 +14,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+    width: 100%;
 }
 
 .to_left:before {
@@ -28,10 +29,11 @@
 .to_right {
   flex: 1;
   padding-bottom: 35px;
+    width: 100%;
 }
 
 .to_img, .to_img img {
-  width: 460px;
+  width: 400px;
 }
 
 .to_title {
