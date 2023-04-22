@@ -21,7 +21,7 @@ body::-webkit-scrollbar-button,::-webkit-scrollbar-button{display:none}
     .act-1c{padding-left: 10px;position: relative;color: var(--clr7);}
     .act-1c:before{content:'\e964';font-family:'cappuccicons';position: absolute;top: -19px;left: 43%;color: #fff;}
     .act-1:before{content: 'ACTUALIDAD';position: absolute;bottom: -11px;left: 6px;font-size: 8px;letter-spacing: 3px;color: #fff;}
-    .act-2{background: #0d0d0d;position: absolute;top: 65px;padding: 5px;left: 0;width: 235px;height: 115px;overflow: auto;font-family: jost;text-transform: uppercase;line-height: 1;font-size: 10px;letter-spacing: 1px;text-shadow: 1px 1px 1px #000;}
+    .act-2{background: #0d0d0d;position: absolute;top: 65px;padding: 10px;left: 0;width: 224px;height: 101px;overflow: auto;font-family: 'Jost';line-height: 1;font-size: 12px;letter-spacing: 1px;font-family: 'Zen Kaku Gothic Antique';text-align: justify;color: #b9b9b9;font-weight: 500;}
     .act-3{position: absolute;bottom: 0; right: 0;width: 241px;height: 237px;overflow: auto;background: #0d0d0d;padding: 5px;text-align: center;}
     .act-3a{display: inline-block;width: 50px;cursor: crosshair;height: 50px;vertical-align: top;margin-bottom: 5px;}
     .act-3a1,.act-3a2,.act-3a3,.act-3a4,.act-3a5,.act-3a6{position: relative;border-top: solid 1px #1a1a1a;margin-top: 15px;padding-top: 3px;}
