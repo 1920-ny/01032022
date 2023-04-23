@@ -852,12 +852,10 @@ li.row.clcasino dd.posts:before{content: '\ea9b';font-size: 10px;top: 3px;left: 
 li.row.clcasino dd.topics{color: #fff;top: 11px;left: 31px;font-family: 'Josefin Sans',sans-serif;text-shadow: 1px 1px 1px #000;letter-spacing: 1px;font-size: 15px;text-align: left;width: auto;padding: 0!important;float: none;}
 
 li.row.clcasino dd.topics:before{content: '\e9cf';font-size: 10px;top: 3px;left: -15px;}
-
 /**/
 
 /**/
-
-li.row.clawards{width: 302px;height: 190px;color: #3a3a3a;vertical-align: top;margin-left: 273px;float: left;margin-top: -150px;}
+li.row.clawards{width: 302px;height: 190px;color: #3a3a3a;vertical-align: top;margin-left: 279px!important;float: left;margin-top: -114px!important;}
 
 li.row.clawards:after{content: '';border: solid 1px #fff;width: 271px;height: 160px;top: 8px;left: 8px;pointer-events: none;mix-blend-mode: overlay;}  
 
