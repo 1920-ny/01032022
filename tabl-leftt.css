@@ -2,7 +2,7 @@
 .to_left {width: 20px;margin-right: 15px;display: flex;flex-direction: column;align-items: center;margin-left: -11px;}
 .to_left:before {content: '';width: 1px;background: linear-gradient(180deg, transparent 0%, var(--clr7) 25%, var(--clr7) 75%, transparent 100%);flex: 1;display:flex;margin-bottom: 10px;}
 .to_right {flex: 1;padding-bottom: 35px;width: 100%;}
-.to_img, .to_img img {max-width: 580px;}
+.to_img, .to_img img {max-width:400px;}
 .to_title {text-align: left;font-family: 'Josefin Sans';font-weight: 700;color: var(--clr7);padding-top: 15px;line-height:1;font-size:26px;text-transform: uppercase;letter-spacing: 1px;text-shadow: 1px 1px 1px #000;}
 .to_sub {font-family: 'Zen Kaku Gothic Antique';font-size: 10px;margin: 0 auto;text-align: left;line-height: 1;color: #fefefe;padding-bottom: 15px;text-shadow: 1px 1px 1px #000;text-transform: uppercase;letter-spacing: 2px;}
 .to_text {padding: 10px;flex: 1;font-size: 12px;line-height: 1.5;padding: 20px;margin: 5px;background-color: rgba(0, 0, 0, 0.25)}
