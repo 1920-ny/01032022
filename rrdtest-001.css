@@ -1,0 +1,20 @@
+.cjaf0{background-size: auto!important;width:950px!important;padding-bottom: 24px!important;background: #141414;border: solid 7px #181818;box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.16);-webkit-box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.16);-moz-box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.16);position: relative;margin: 0 auto}
+.cjaf1{width:925px!important;margin-left: 0px!important;top: 13px!important;} 
+.cjaf5{width:800px!important;margin-left:0!important;letter-spacing:1px;}  
+.sptl000{color:#fff;font-size:16px;letter-spacing:5px;width: 100%;display: block;text-align: center;}   
+.sptl001{color:#fff;text-transform: uppercase;letter-spacing: 2px;font-size: 14px;font-family: josefin sans;} 
+strong{text-transform: uppercase; font-size:12px; color: var(--clr7); letter-spacing: 2px; font-family: josefin sans; padding:2px; font-weight:bold;} i{color: var(--clr7); letter-spacing: 1px;}
+.reqp0{color: #fff;font-family: 'Zen Kaku Gothic Antique';text-transform: uppercase;font-size: 8px;letter-spacing: 1px;}
+.reqp01{color: var(--clr6);font-family: 'Jost';text-transform: uppercase;font-size: 10px;letter-spacing: 2px;font-weight:500;}
+.reqp02{color: #ffc365;text-transform: uppercase;font-family: 'Josefin Sans';font-weight: bold;font-size: 14px;letter-spacing: 2px;}
+.reg-tab input{display: none;}
+.reg-tab label {cursor: pointer;position: absolute;top: -100px;width: 100px;font-family: 'Zen Kaku Gothic Antique';height: 60px;line-height: 1;border-bottom: solid 2px var(--clr4);margin: 5px;display: inline-block;color: #fff;font-size: 10px;padding: 5px;letter-spacing: 1px; transition: all 0.5s ease;}
+.reg-tab label span{position: absolute;bottom:10px;left:5px;}
+.reg-tab{width:830px;height: 1000px;display: block;position: relative;margin: 0 auto;margin-top: 100px;padding: 5px;}
+.reg-tab .txxt{position: absolute;transition: all 0.5s ease;height:1000px; width:100%;pointer-events: none;overflow:auto;opacity: 0;}
+.reg-tag:before {content: '';width: 1px; background: linear-gradient(180deg, var(--clr7) 0%, transparent 25%, transparent 75%, var(--clr7) 100%);}
+input#reg-tab1:checked ~ .txxt1,input#reg-tab2:checked ~ .txxt2,input#reg-tab3:checked ~ .txxt3,input#reg-tab4:checked ~ .txxt4,input#reg-tab5:checked ~ .txxt5,input#reg-tab6:checked ~ .txxt6,input#reg-tab7:checked ~ .txxt7{position: absolute;pointer-events: all;opacity: 1;}
+input:checked + label{border-color: #fff!important;top: -105px;color: var(--clr2);}
+label[for=reg-tab1]{left:-6px}label[for=reg-tab2]{left:115px;}label[for=reg-tab3]{left:235px;}label[for=reg-tab4]{left:355px;}label[for=reg-tab5]{left:475px;}label[for=reg-tab6]{left:595px;}label[for=reg-tab7]{left:715px;}
+.cjaf1 p{font-family: 'jost';color: #d3d3d3;font-size: 10px;text-transform: uppercase;letter-spacing: 1px;}
+.mdtitul{text-transform: uppercase; font-size:14px; width:100%; border-bottom: solid 1px; color: var(--clr7); letter-spacing: 2px; font-family: josefin sans; padding:2px;}
