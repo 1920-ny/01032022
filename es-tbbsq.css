@@ -1,0 +1,11 @@
+.bsqtabll0{display: block;width: 480px;height: 500px;position: relative;left: 0;margin: 0 auto;margin-bottom: 50px;background-color: #111;border: solid 5px #141414;}
+.bsqtabll0:hover .bsqtabll3{opacity:1}   
+.bsqtabll2{display:block;width:170px;height:400px;position:absolute;top:14px;left:15px;background-size:cover;    border: 1px inset transparent;border-image: radial-gradient(#00000000 80%,var(--clr7));-moz-border-image: -moz-radial-gradient(#00000000 80%,var(--clr7));-webkit-border-image: -webkit-radial-gradient(#00000000 80%,var(--clr7));border-image-slice: 1;}   
+.bsqtabll3{display: block;height: auto;width: 150px;bottom: 85px;left: 16px;background: rgb(14,14,14,0.9);position: absolute;overflow: auto;opacity: 0;padding: 10px;transition: all .5s ease-in-out;font-family: 'Roboto', sans-serif;font-size: 12px;color: #8f8f8f;text-align: justify;}  
+.bsqtabll3a{display: block;height: 380px;width: 254px;top: 14px;right: 10px;background: rgba(12,12,12);position: absolute;overflow: auto;padding: 10px;transition: all .5s ease-in-out;font-family: 'Jost';font-size: 13px;color: #b7a4a4;text-align: justify;border: 1px inset transparent;border-image: radial-gradient(#00000000 80%,var(--clr7));-moz-border-image: -moz-radial-gradient(#00000000 80%,var(--clr7));-webkit-border-image: -webkit-radial-gradient(#00000000 80%,var(--clr7));border-image-slice: 1;}    
+.bsqtabll4{display: block;height: auto;position: absolute;top: 422px;left: 14px;font-family: 'Josefin Sans';font-size: 16px; text-shadow: 1px 1px 1px #000;color: var(--clr7);border-top: solid 1px var(--clr7);width: 421px;width: 456px;text-align: center; padding-top: 15px; letter-spacing:2px;line-height: 1;} 
+.bsqtabll5{display: block;padding: 5px;position: relative;color: #c1c1c1;text-transform: uppercase;letter-spacing: 1px;margin-left: 10px;font-size: 9px;font-family: 'Josefin Sans';} 
+.bsqtabll5:after{content: '•';top: 2px;left: -10px;position: absolute;font-size: 16px;}
+a.a05tabll{position:absolute;bottom: 190px;right: -29px;font-family:open sans;font-size:8px;letter-spacing:2px;font-weight:bold;color:#8d7143;text-decoration:none;transform:rotate(-90deg)} 
+.to_credit a {display: block;width: 20px;height: 20px;font-size: 18px;color: var(--clr7);text-decoration: none;position: absolute;bottom: 0;}  
+.to_credit a:before {content: '\ea0e';font-family: 'cappuccicons';}  
