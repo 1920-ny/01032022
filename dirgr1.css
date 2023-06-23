@@ -1,0 +1,24 @@
+body{background:#181818}
+:root {--clr1:rgba(35,35,35,1);--clr2: #ae5454;--clr3:#121212;--clr4:#532b2a;--clr5:#141414,#141414,#141414,#141414,#141414,#141414,#141414,#141414,#141414,#141414,#141414,#141414,#141414,#141414,#141414;--clr6:#766a6a;--clr7:#88312e}
+body::-webkit-scrollbar,::-webkit-scrollbar{width:8px}
+body::-webkit-scrollbar-track,::-webkit-scrollbar-track{background-color:#252525}
+body::-webkit-scrollbar-thumb,::-webkit-scrollbar-thumb{background-color:#88312e;border:solid 3px #252525;border-radius:5px}
+body::-webkit-scrollbar-thumb:hover,::-webkit-scrollbar-thumb:hover{background:#532b2a}
+body::-webkit-scrollbar-button,::-webkit-scrollbar-button{display:none}
+.scrollbar-personalizado{scrollbar-width: thin;scrollbar-color:#88312e #532b2a}
+details{background-color:#181818;padding:10px;cursor:pointer}    
+summary{¿font-family:jost;letter-spacing:2px;text-transform:uppercase;color:var(--clr2)}
+details p{font-family:roboto!important;cursor:text!important}
+.dirgr{position:relative;background:#111;border:solid 5px #141414;width:510px;height:721px;margin:0 auto}
+.dirgr a:after{content:'';position: absolute;bottom:20px;left:32px;font-size:20px;content:'\ea0e';font-family:'cappuccicons';color:#88312e!important}
+.dirgr1{width:380px;height:440px;background:#141414;padding:10px;overflow:auto;position:absolute;top: 165px;font-family:roboto;left:7px;font-size:12px;text-align:justify;border:1px inset transparent;border-image:radial-gradient(#00000000 80%,var(--clr7));-moz-border-image:-moz-radial-gradient(#00000000 80%,var(--clr7));-webkit-border-image:-webkit-radial-gradient(#00000000 80%,var(--clr7));border-image-slice:1}
+.dirgr2{font-family:'Josefin Sans';font-size:18px;letter-spacing:1px;text-shadow:1px 1px 0px #000;position:absolute;bottom:5px;right:10px;width:90%;display:block;text-align:right}
+.dirgr3{position:absolute;display:block;top:0;left:0;border-bottom:solid 1px var(--clr7);width:415px;height:200px;background-size:cover!important}
+.dirgr4{text-transform:uppercase;font-size:14px;border-bottom:solid 1px;color:var(--clr7);letter-spacing: 2px;font-family:'josefin sans';padding:2px}
+.dirgr5{display:block;font-family:'Josefin Sans';font-size:18px;letter-spacing:1px;color:var(--clr7);padding-left:10px;padding-top:15px;border-bottom:solid 1px}
+.dirgrtabs{position:relative;min-height:200px;clear:both;margin:25px 0}
+.tabdirg label{background:#0c0c0c;padding:5px;position:relative;left:1px; width:70px;display:block;font-family:hind;font-size:10px;text-shadow:1px 1px 0px #000;letter-spacing:1px;cursor:pointer;text-transform:uppercase;line-height:1;margin-bottom:5px!important;height:20px;width:81px;text-align:center;font-weight:bold}
+.tabdirg [type=radio]{display:none}
+.dirgrcon{color:#766a6a;position:absolute;top:0;left:95px;background:#1a1a1a;display:block;height:661px;overflow:hidden;opacity:0;width:415px;opacity:0;pointer-events:none}
+[type=radio]:checked ~ label#eloim{background:transparent;transition:all ease-out 0.2s 0.1s;border-left:solid 4px #818181}
+[type=radio]:checked ~ label#eloim ~ .dirgrcon{opacity:1;pointer-events:all;-webkit-transition:all 1s linear;-moz-transition:all 1s linear;-ms-transition:all 1s linear;-o-transition:all 1s linear;transition:all 1s linear}
