@@ -1,0 +1,116 @@
+    .dirgr{position: relative;
+    background: #111;
+    border: solid 5px #141414;
+    width: 510px;
+    height: 743px;
+    display: block;
+    overflow: hidden;
+    margin-left: -19px;}
+    
+    .dirgr a:after{content: '';position: absolute;bottom: 20px;left: 32px;font-size: 20px;content: '\ea0e';font-family: 'cappuccicons';color: #88312e!important;}
+    
+    .dirgr1{width: 392px;
+    height: 465px;
+    background: #141414;
+    padding: 10px;
+    overflow: auto;
+    border: solid 1px #252525;
+    position: absolute;
+    top: 165px;
+    font-family: roboto;
+    left: 7px;
+    font-size: 12px;
+    text-align: justify;}
+    
+    .dirgr2{font-family: 'Josefin Sans';
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 0px #000;
+    position: absolute;
+    bottom: -4px;
+    right: 14px;
+    width: 90%;
+    display: block;
+    text-align: right;}
+    
+    .dirgr3{position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 415px;
+    height: 200px;
+    background-size: cover!important;}
+    
+    .dirgr4{text-transform: uppercase; font-size:14px; border-bottom: solid 1px; color: var(--clr7); letter-spacing: 2px; font-family: 'josefin sans'; padding:2px;}
+    
+     .dirgr5{display: block;
+    font-family: 'Josefin Sans';
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: var(--clr7);
+    padding-left: 10px;
+    padding-top: 15px;
+    border-bottom: solid 1px;}
+    
+ .dirgrtabs {
+      position: relative;   
+      min-height: 200px;
+      clear: both;
+      margin: 25px 0; 
+	  
+	     
+    }
+    
+
+    .tabdirg label {
+    background: #0c0c0c;
+    padding: 5px;
+    position: relative;
+    left: 0;
+    width: 70px;
+    display: block;
+    font-family: hind;
+    font-size: 10px;
+    text-shadow: 1px 1px 0px #000;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-transform: uppercase;
+    line-height: 1;
+    margin-bottom: 5px!important;
+    height: 30px;
+    width: 95px;
+    text-align: center;
+    font-weight: bold;
+    }
+    
+    .tabdirg [type=radio] {
+      display: none;   
+    }
+    .dirgrcon {color:#766a6a;
+    position: absolute;
+    top:0;
+    left: 95px;
+    background: #1a1a1a;
+    display: block;
+    height: 661px;
+    overflow: hidden;
+    opacity: 0;
+    width: 415px;
+    opacity: 0;pointer-events: none;   
+    }
+    
+    [type=radio]:checked ~ label#eloim {
+      background: transparent;
+    transition: all ease-out 0.2s 0.1s;
+    border-left: solid 4px #818181!important;
+    border-color: transparent;
+    }
+    
+    [type=radio]:checked ~ label#eloim ~ .dirgrcon {
+     opacity: 1;pointer-events: all;
+           -webkit-transition: all 1s linear;
+   -moz-transition: all 1s linear;
+   -ms-transition: all 1s linear;
+   -o-transition: all 1s linear;
+   transition: all 1s linear;
+	}
